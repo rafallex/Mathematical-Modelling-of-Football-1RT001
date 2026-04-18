@@ -1,0 +1,586 @@
+player_name,team_name,passes,pass_danger
+Gaëtan Perrin,Lyon,8,0.17497208553135113
+Gaëtan Laborde,Bordeaux,4,0.1540676085404929
+Valentin Eysseric,OGC Nice,15,0.13455145398178334
+Youssef Ben Ali,Toulouse,13,0.12839717051761806
+Sébastien Wüthrich,Montpellier,3,0.11873190381254772
+Aldo Kalulu Kyatengwa,Lyon,65,0.1174199391823468
+Anthony Martial,AS Monaco,59,0.11680051984610205
+Yannis Salibur,Guingamp,728,0.11253321869003659
+Nabil Fekir,Lyon,209,0.1106901888510255
+Alhassane Bangoura,Stade de Reims,159,0.11025768076488932
+Ivan Ricardo Neves Abreu Cavaleiro,AS Monaco,158,0.10941758604440205
+Djamel Bakar,Montpellier,66,0.10633997193170712
+Alexis Araujo,Lille,3,0.1062219303499588
+Florian Thauvin,Marseille,458,0.10543708270667763
+Henri Bienvenu Ntsama,Troyes,38,0.10518963570195325
+Hervé Bazile,Caen,409,0.10508979831792047
+Kamil Grosicki,Rennes,652,0.10492846447030685
+Mathieu Valbuena,Lyon,1319,0.10457291141164417
+Kylian Mbappé Lottin,AS Monaco,88,0.10443038890388247
+Steve Michel Mounié,Montpellier,15,0.10389587309130774
+Nicolas Benezet,Guingamp,545,0.10382075635155909
+Paul-Georges Ntep de Madiba,Rennes,416,0.10347127203328618
+Valentin Lavigne,Lorient,59,0.10251576198389081
+Sofiane Boufal,Lille,1094,0.10167072995607315
+Wahbi Khazri,Bordeaux,763,0.10108681727869727
+Anthony Mounier,Montpellier,120,0.10087086532902209
+Malcom Filipe Silva de Oliveira,Bordeaux,204,0.10079376224443853
+Jules Iloki,Nantes,421,0.10025772349900616
+Neal Maupay,Saint-Étienne,123,0.10002845782476076
+Julien Bègue,Guingamp,17,0.09972818974392693
+Ola Toivonen,Rennes,3,0.09957934312156731
+Bernardo Mota Veiga de Carvalho e Silva,AS Monaco,1025,0.09957488409907428
+Jimmy Cabot,Troyes,376,0.09899919810096121
+Jean-Christophe Bahebeck,Saint-Étienne,268,0.09889681554749657
+Diego Gómez,Angers,14,0.09881316355500296
+Rodrigue Casimir Ninga,Montpellier,578,0.09850967312544591
+Hicham M''Laab,Nantes,13,0.09808127752582427
+Valentin Eysseric,Saint-Étienne,952,0.09789007382142595
+Georges-Kévin Nkoudou Mbida,Marseille,764,0.0978659482243599
+Romain Alessandrini,Marseille,559,0.09742033350775646
+Kévin Monnet-Paquet,Saint-Étienne,777,0.09665594475761606
+Ousmane Dembélé,Rennes,718,0.09635013844457559
+Romain Hamouma,Saint-Étienne,584,0.09604474076937217
+Denis Bouanga,Lorient,45,0.09563660733947255
+Marcos Paulo Mesquita Lopes,Lille,238,0.0954846464994864
+Gnaly Maxwell Cornet,Lyon,543,0.09529624867083061
+Nicolas de Roussel de Préville,Stade de Reims,1113,0.09468295756343865
+Thievy Guivane Bifouma Koulossa,Stade de Reims,272,0.0946082426626482
+Rachid Ghezzal,Lyon,1007,0.09459106808700299
+Aleksandar Pešić,Toulouse,140,0.09436713978257953
+Franck Béria,Lille,44,0.09424339552902791
+Thomas Lemar,AS Monaco,949,0.0939700775506841
+Adrien Regattin,Toulouse,949,0.09321301747775253
+Alexandre Lacazette,Lyon,1047,0.09316808468679136
+Issiar Dia,Gazélec Ajaccio,124,0.0931504765829453
+Hélder Wander Sousa Azevedo Costa,AS Monaco,366,0.09285068481357829
+Ryad Boudebouz,Montpellier,2255,0.09284137443286553
+Abdul Majeed Waris,Lorient,379,0.09264637638242386
+Lenny Nangis,Lille,113,0.09199256765052577
+Adryan Oliveira Tavares,Nantes,626,0.09179061201373176
+Ezequiel Iván Lavezzi,Paris Saint-Germain,255,0.09160083096997092
+Quentin Cornette,Montpellier,40,0.09143793780316097
+Lenny Nangis,Caen,44,0.09143616637389931
+Franck Honorat,OGC Nice,54,0.09100515168091595
+Yoann Court,Troyes,388,0.09098229840717141
+Alassane Pléa,OGC Nice,526,0.09088205093224683
+Claudio Beauvue,Lyon,341,0.09061452941037146
+Hatem Ben Arfa,OGC Nice,1416,0.08970207524014248
+Ryan Isaac Mendes da Graça,Lille,42,0.08965834133395936
+Nabil Dirar,AS Monaco,751,0.08954037033759797
+Fabien Camus,Troyes,1174,0.08920030772388092
+Lacina Traoré,AS Monaco,196,0.08912815340782208
+Lucas Ariel Ocampos,Marseille,270,0.08886059771070963
+Corentin Jean,Troyes,756,0.08885115462211342
+Samuel Grandsir,Troyes,4,0.08851355835879053
+Emiliano Sala,Nantes,606,0.08828980706768547
+Jérémy Livolant,Guingamp,3,0.08826099438848206
+Marcus Coco,Guingamp,451,0.08813968953860976
+Yaw Yeboah,Lille,41,0.08812569816286368
+Saïdi Ntibazonkiza,Caen,162,0.08798008198219337
+Wissam Ben Yedder,Toulouse,981,0.08785200188953016
+Moryké Fofana,Lorient,61,0.0875356938219739
+Mustapha Yatabaré,Montpellier,469,0.08674658048359828
+Stéphane Darbion,Troyes,906,0.08645750920529319
+Abdelaziz Barrada,Marseille,1051,0.08630693133495704
+Bouna Sarr,Marseille,527,0.08621693568484454
+Ángel Fabián Di María Hernández,Paris Saint-Germain,1724,0.08600780064872433
+Maxime Barthelmé,Lorient,659,0.0859134740130563
+Erin Jorge Gomes Pinheiro,Saint-Étienne,6,0.08585298508151269
+Gabriel Boschilia,AS Monaco,67,0.08574251554339667
+Mickaël Le Bihan,OGC Nice,49,0.0857052897354718
+Antony Ranieri,OGC Nice,2,0.08561841425652078
+Gaël Danic,Bastia,1233,0.08542723687908677
+Óscar Guido Trejo,Toulouse,1302,0.08539489835213551
+Slimane Sissoko,Angers,95,0.0853781219681013
+Jimmy Cabot,Lorient,378,0.08525396639409843
+Marcos Paulo Mesquita Lopes,AS Monaco,29,0.08514640372504596
+Gadji Celi Carmen Junior Tallo,Lille,321,0.08503967039552397
+Farès Bahlouli,AS Monaco,102,0.08491465062828782
+Johan Audel,Nantes,528,0.08441008727419634
+Thomas Henry,Nantes,6,0.08379175301310772
+Andy Delort,Caen,1025,0.08338916010787106
+Mana Dembélé,Guingamp,104,0.08336573160780683
+Stephan El Shaarawy,AS Monaco,289,0.08331418997116816
+François Pantxi Sirieix,Toulouse,55,0.08290122022725664
+Robert Berič,Saint-Étienne,171,0.08270683992228611
+Morgan Amalfitano,Lille,461,0.08263767823635863
+Nolan Roux,Saint-Étienne,513,0.08251414076690193
+Thomas Touré,Bordeaux,402,0.08245713840732288
+Kévin Bérigaud,Montpellier,353,0.08233275612538771
+Benjamin Corgnet,Saint-Étienne,264,0.0822557088921027
+Éric Bauthéac,Lille,996,0.08205960771493097
+Zlatan Ibrahimović,Paris Saint-Germain,1360,0.08164629727915663
+Benjamin Moukandjo Bilé,Lorient,696,0.08157116123089665
+Yassine Benzia,Lille,434,0.0815645703689005
+Kévin Mayi,Gazélec Ajaccio,277,0.0815443709114354
+Mohamed Larbi,Gazélec Ajaccio,1123,0.08148410782018664
+Oussama Tannane,Saint-Étienne,233,0.08142662526559226
+Kévin Soni,Bordeaux,24,0.08119431269005693
+Jimmy Briand,Guingamp,1061,0.08117492092540309
+Diego Rigonato Rodrigues,Stade de Reims,728,0.08116330436660885
+Abdoul Razzagui Camara,Angers,467,0.08112278211553146
+Odaïr Junior Lopes Fortes,Stade de Reims,242,0.08101508039897841
+Lucas Rodrigues Moura da Silva,Paris Saint-Germain,1287,0.08089462383569394
+Grejohn Kyei,Stade de Reims,161,0.0806962861703773
+Alexander Toft Søderlund,Saint-Étienne,164,0.0805237203337763
+Chaouki Ben Saada,Troyes,527,0.08048144501064429
+Martin Braithwaite Christensen,Toulouse,665,0.0803763243122334
+Frédéric Bulot,Stade de Reims,525,0.07963400156980305
+Giovanni-Guy Yann Sio,Rennes,749,0.07924693416651343
+Marvin Martin,Lille,234,0.07918551149041074
+Souleymane Camara,Montpellier,595,0.0790945360096291
+Morgan Sanson,Montpellier,283,0.07903638892875667
+Billy Ketkeophomphone,Angers,1015,0.07892060019296973
+Adrien Thomasson,Nantes,1522,0.07887186206308414
+Adam Ounas,Bordeaux,467,0.07883719678640891
+Nicolas Maurice-Belay,Bordeaux,795,0.07878847894413275
+Julien Romain,Bastia,44,0.07872490676335878
+Floyd Ayité,Bastia,843,0.07837841540441007
+"David N""Gog",Stade de Reims,226,0.07762916606051858
+Jeremie Boga,Rennes,324,0.07749162846922396
+Jacques Zoua Daogari,Gazélec Ajaccio,764,0.07725320194544205
+John Tshibumbu,Gazélec Ajaccio,308,0.07708051900927063
+Pedro Henrique Konzen Medina da Silva,Rennes,425,0.07707537368850151
+Khalid Boutaïb,Gazélec Ajaccio,680,0.07706848216627944
+Sibiri Alain Traoré,Lorient,29,0.0770085262630011
+Thibault Giresse,Guingamp,764,0.07690439431989053
+Goran Karanović,Angers,77,0.07684227654508143
+Nicolas Janvier,Rennes,20,0.076799803928632
+François Kamano,Bastia,404,0.07668282385549356
+Ronny Rodelin,Caen,1125,0.07657245564133248
+Gilles Sunu,Angers,764,0.07632344694678174
+Jeff Louis,Caen,185,0.07629350495507303
+Louis Poggi,Gazélec Ajaccio,153,0.07595634007089638
+Mohamed Saïd Benrahma,Angers,102,0.0758305140886577
+Kermit Romeo Erasmus,Rennes,22,0.07547403531303722
+Vincent Bessat,Caen,1220,0.07544477168828877
+Jean Carlos Francisco Deza Sánchez,Montpellier,76,0.07541623566848527
+Ludovic Blas,Guingamp,224,0.07535226405103732
+Nill De Pauw,Guingamp,151,0.07527723247935861
+Yohan Mollo,Saint-Étienne,10,0.07512528341084075
+Serhou Guirassy,Lille,106,0.07504378215182934
+Sloan Privat,Guingamp,307,0.07497410305327668
+Gaëtan Charbonnier,Stade de Reims,575,0.07493567698462843
+Vágner Silva de Souza,AS Monaco,201,0.07484807497398327
+Romain Philippoteaux,Lorient,607,0.07482155709514555
+Jonathan Bamba,Saint-Étienne,110,0.07481229060019762
+Rémy Cabella,Marseille,1595,0.07459443756087066
+Romain Del Castillo,Lyon,15,0.07400723372855574
+Sébastien Corchia,Lille,1242,0.07399716734672644
+Mohamed Lamine Yattara,Angers,269,0.07374918266430892
+Valère Germain,OGC Nice,1101,0.07361889618980173
+Evaeverson Lemos da Silva Brandão,Bastia,448,0.07341226433999433
+Julien Féret,Caen,1774,0.07293221073081203
+Renaud Cohade,Saint-Étienne,706,0.07280744224321622
+Jussiê Ferreira Vieira,Bordeaux,206,0.07273833657421508
+Mevlüt Erdinç,Guingamp,170,0.072488068587447
+Alejandro Bedoya,Nantes,903,0.07237201844168527
+Zinédine Machach,Toulouse,398,0.07191524485240328
+Diego Alejandro Rolan Silva,Bordeaux,871,0.07180781312636203
+Yann Jouffre,Lorient,1329,0.07180078871916946
+Baptiste Guillaume,Lille,128,0.07164975079396245
+Hugo Rodriguez,Stade de Reims,53,0.0712290022667799
+Steven Fletcher,Marseille,262,0.07117386203627396
+Brayan Andrés Perea Vargas,Troyes,132,0.07099656845541114
+Jonathan Delaplace,Caen,611,0.07031409352685017
+Alexandre Mendy,OGC Nice,135,0.07026119070974471
+Yacine Bammou,Nantes,696,0.06996929443394195
+Guido Marcelo Carrillo,AS Monaco,522,0.06979441759947366
+Juan Fernando Quintero Paniagua,Rennes,613,0.0697078796698077
+Wesley Saïd,Rennes,5,0.06956169263374086
+Theoson Jordan Siebatcheu,Stade de Reims,229,0.06954212683896623
+Férébory Doré,Angers,192,0.06946360323740208
+Ermir Lenjani,Nantes,645,0.06888272111890248
+Clément Grenier,Lyon,786,0.0686418273306159
+Mohamed Saïd Benrahma,OGC Nice,57,0.06860574940989124
+Michaël Jordan Nkololo,Caen,220,0.06820010068246521
+Grégory Pujol,Gazélec Ajaccio,328,0.06804022808396994
+Isaac Kiese Thelin,Bordeaux,68,0.06791487669216158
+David N'Gog,Stade de Reims,16,0.06777626396658246
+Antoine Rabillard,Marseille,20,0.06751248022588305
+Steed Malbranque,Lyon,279,0.0674164018169235
+Éderzito António Macedo Lopes,Lille,327,0.06727202323061653
+Michy Batshuayi Tunga,Marseille,677,0.06726398950053865
+Abdoulaye Sadio Diallo,Bastia,380,0.06725114262259423
+Karim Azamoum,Troyes,378,0.06659903183086559
+Sébastien Antoine Luc Salles Lamonge,Rennes,98,0.06647548013314575
+Dennis Appiah,Caen,1551,0.06634488646657294
+Fábio Alexandre da Silva Coentrão,AS Monaco,702,0.06621580834061197
+Anthony Ribelin,Montpellier,23,0.06615863712182297
+Deniz Hümmet,Troyes,34,0.06579624782516828
+Hassane Kamara,Stade de Reims,8,0.06576552201806461
+Benjamin Nivet,Troyes,1468,0.0657633253586559
+Damjan Đoković,Gazélec Ajaccio,1263,0.06552604760665451
+Jean-Kévin Augustin,Paris Saint-Germain,108,0.06550703905772151
+Alexis Alégué Elandi,Nantes,22,0.06531662397319381
+João Filipe Iria Santos Moutinho,AS Monaco,1513,0.06489919034970504
+Enzo Crivelli,Bordeaux,372,0.06459224075885187
+Christian Kouakou Yao,Caen,36,0.06444787148878862
+Benjamin Jeannot,Lorient,674,0.06440410632583657
+Florian Raspentino,Bastia,121,0.06437484091927112
+Ludovic Baal,Rennes,976,0.06435785687817581
+Marvin Gakpa,Lorient,38,0.06429835843781623
+Pierrick Capelle,Angers,545,0.06397585737959202
+Youssouf Sabaly,Nantes,1775,0.06371407876325456
+Layvin Kurzawa,AS Monaco,170,0.06354946255690475
+Sergi Darder Moll,Lyon,982,0.06339727331500951
+Kolbeinn Sigþórsson,Nantes,564,0.0628500426563293
+Emmanuel Imorou,Caen,645,0.06280743137534586
+Milan Gajić,Bordeaux,289,0.06254743287554798
+Mathieu Debuchy,Bordeaux,396,0.06253976304162523
+Javier Matías Pastore,Paris Saint-Germain,913,0.06246491763520043
+Edinson Roberto Cavani Gómez,Paris Saint-Germain,806,0.0624603311208682
+Abdoulaye Doucouré,Rennes,577,0.061879736222703936
+Jonathan Brison,Saint-Étienne,264,0.06178769996854936
+Dorian Caddy,OGC Nice,68,0.06176708268277092
+Paolo De Ceglie,Marseille,155,0.06161268145021051
+David Ducourtioux,Gazélec Ajaccio,1530,0.06149832083818164
+Jordan Ferri,Lyon,1855,0.06147986973702927
+Yoann Gourcuff,Rennes,390,0.06140395302660926
+Arnold Bouka Moutou,Angers,571,0.06130720207534469
+Robin Maulun,Bordeaux,41,0.06128433148200866
+Almamy Touré,AS Monaco,464,0.06120355307258739
+Bryan Dabo,Montpellier,1707,0.06115045379478616
+Kévin Malcuit,Saint-Étienne,333,0.06085446732351462
+Jonathan Martins-Pereira,Troyes,767,0.060838698399534166
+Valentín Vada,Bordeaux,640,0.06083698583106101
+Christophe Jallet,Lyon,1572,0.06015235959782032
+Jaroslav Plašil,Bordeaux,1226,0.06007719235190072
+Amos Youga,Gazélec Ajaccio,560,0.06001721372123828
+Djibril Sidibé,Lille,2084,0.05995680966694722
+André Biyogo Poko,Bordeaux,899,0.059679057475297635
+Walid Mesloub,Lorient,1657,0.05964078680035935
+Issiaga Sylla,Gazélec Ajaccio,1619,0.059636237515170464
+Paul Lasne,Montpellier,272,0.05939802196240789
+Lossémy Karaboué,Troyes,1448,0.05921816634776848
+Axel Ngando,Bastia,533,0.059193971455843174
+Babacar Gueye,Troyes,181,0.0591105604218603
+Paulin Puel,OGC Nice,62,0.05877874949969289
+Cheick Tidiane Diabaté,Bordeaux,373,0.05873494071216144
+William Matheus da Silva,Toulouse,649,0.05837110103313192
+Jérémy Pied,OGC Nice,2191,0.05828027263990182
+Jérôme Roussillon,Montpellier,1381,0.058112220902396025
+Thomas Mangani,Angers,1738,0.058094962930662936
+Hervin Scicchitano Ongenda,Paris Saint-Germain,273,0.057627385337035326
+Jean-Daniel Akpa Akpro,Toulouse,1152,0.0576212146277372
+Mamadou N''Diaye,Montpellier,85,0.057503723155269346
+Henri Bedimo Nsamè,Lyon,872,0.057442621901658254
+Franck Tabanou,Saint-Étienne,356,0.057420649358105674
+Benjamin Mendy,Marseille,1357,0.05736372927900598
+Mounir Obbadi,Lille,1708,0.05733851114979011
+Alassane Touré,Gazélec Ajaccio,504,0.05721699602997298
+Étienne Didot,Toulouse,1211,0.05715923175820242
+Jonathan Martins-Pereira,Guingamp,802,0.05691506129881152
+Florent Balmont,Lille,1344,0.05660594318421933
+Elderson Uwa Echiejile,AS Monaco,888,0.05647483301297844
+François Clerc,Saint-Étienne,544,0.05630172010896329
+Niklas Hult,OGC Nice,452,0.05622473702126149
+Lars Christian Jacobsen,Guingamp,1187,0.05612818503808599
+Reynald Lemaître,Guingamp,221,0.05610702158370071
+Brice Dja Djédjé,Marseille,1151,0.05605668674656337
+Rafael Pereira da Silva,Lyon,1048,0.05602229609506654
+Hamari Traoré,Stade de Reims,1812,0.056009365243881754
+Kévin Théophile-Catherine,Saint-Étienne,1001,0.05600936080617842
+Jérémy Morel,Lyon,1665,0.05596935341996736
+Atila Turan,Stade de Reims,341,0.05582641736469333
+Jordan Leborgne,Caen,241,0.05571771285228898
+Wergiton do Rosário Calmon,Toulouse,937,0.05535514682858375
+Florian Sotoca,Montpellier,3,0.055284695679104996
+Christopher Maboulou,Bastia,62,0.05522526481525398
+Mehdi Zeffane,Rennes,466,0.05511473926022658
+Raphaël Adelino José Guerreiro,Lorient,1597,0.054657526008653576
+Nolan Mbemba,Lille,33,0.05452606726922681
+Jonas Martin,Montpellier,2153,0.05446163177182745
+Ronaël Pierre-Gabriel,Saint-Étienne,217,0.054161587858820075
+Wallyson Teixeira Mallmann,OGC Nice,501,0.05415268057536478
+Benjamin André,Rennes,1968,0.05380385361257775
+Wilfried Moimbé,Nantes,652,0.053659318687763594
+Fábio Henrique Tavares,AS Monaco,1732,0.05341427278835915
+Diego Armando Valentin Contento,Bordeaux,1261,0.05330746455801337
+Julian Palmieri,Bastia,1578,0.05329947867837202
+Steven Moreira,Rennes,775,0.05320070388246768
+Jean Pierre Nsamé,Angers,22,0.05314660359347763
+Valentin Rongier,Nantes,472,0.053105720099953756
+Mario Lemina,Marseille,209,0.05304789613882775
+Mahamane El-Hadj Traoré,OGC Nice,263,0.052951876226658465
+Adama Traoré,AS Monaco,188,0.05294461658301603
+Maxime Poundjé,Bordeaux,672,0.05293756214997462
+Tongo Hamed Doumbia,Toulouse,983,0.05289220704634138
+Mauro Wilney Arambarri Rosa,Bordeaux,76,0.052754467750949476
+Lassana Coulibaly,Bastia,249,0.05263917548190823
+Léo Dubois,Nantes,1166,0.05230854222956582
+Issam Ben Khémis,Lorient,10,0.05206525902662094
+Mario Pašalić,AS Monaco,441,0.05189262029457692
+Corentin Tolisso,Lyon,1974,0.05186656293443988
+Mohamed Amine Chermiti,Gazélec Ajaccio,84,0.0517030127992024
+Lucas Tousart,Lyon,42,0.051689823317269915
+Jacques François Moubandje,Toulouse,1131,0.05153669168582996
+Pierre-Yves Polomat,Saint-Étienne,556,0.05152967954622966
+Blaise Matuidi,Paris Saint-Germain,1632,0.05129336051680698
+Henri Saivet,Bordeaux,1014,0.051172195909165816
+Zakarie Labidi,Lyon,9,0.05113871206746931
+Ricardo Domingos Barbosa Pereira,OGC Nice,1687,0.051127910358622644
+Pavle Ninkov,Toulouse,268,0.05101789155844212
+Soualiho Meïté,Lille,25,0.050763190727908684
+Jean Michaël Seri,OGC Nice,2811,0.05031627603844747
+Cheikh N''Doye,Angers,1136,0.05029959033423194
+Antoine Devaux,Stade de Reims,1398,0.05015284101126244
+Dorian Lévêque,Guingamp,613,0.04992183298724225
+Mauricio Aníbal Isla Isla,Marseille,1246,0.04976603218400272
+Mathieu Deplagne,Montpellier,995,0.0496897318373483
+Layvin Kurzawa,Paris Saint-Germain,949,0.04966459197582537
+Enock Kwateng,Nantes,8,0.0495130851330911
+Fabien Lemoine,Saint-Étienne,1587,0.04936946665124926
+Quentin Othon,Troyes,351,0.0492569649989478
+Mohamed Ilyes Salah Chaïbi,AS Monaco,4,0.049208618379720494
+Alexandre Coeff,Gazélec Ajaccio,1147,0.04876459618519503
+Chris Mavinga,Troyes,658,0.04870297650132893
+Javier Manquillo Gaitán,Marseille,1823,0.04866277931686144
+Franck Signorino,Stade de Reims,1427,0.048637326576227324
+Pape Abdou Paye,Lorient,370,0.04855877990474758
+Alexandre Raineau,Caen,188,0.04793680377825651
+Vincent Le Goff,Lorient,1241,0.04771173163831487
+Olivier Veigneau,Nantes,109,0.04755267586886342
+Chaker Alhadhur,Caen,397,0.04752725056011496
+Thomas Ayasse,Troyes,553,0.046926272702700285
+Laurent Dos Santos,Guingamp,266,0.046895467952932104
+Maxwell Scherrer Cabelino Andrade,Paris Saint-Germain,1714,0.04685140867748379
+Serge Aurier,Paris Saint-Germain,1379,0.04684061087390993
+Vincent Koziello,OGC Nice,1758,0.04681443179375336
+André-Frank Zambo Anguissa,Marseille,176,0.04680444649463549
+Ramy Bensebaini,Montpellier,779,0.046788950422836366
+Gilles Cioni,Bastia,683,0.04675088011467329
+Guillaume Gillet,Nantes,1026,0.04670819012552722
+Aly Ndom,Stade de Reims,179,0.046701583187379846
+Romain Danzé,Rennes,1033,0.04666665750794503
+Maxime Baca,Guingamp,74,0.046625644828531466
+Jemerson de Jesus Nascimento,AS Monaco,110,0.04641740288240166
+Vincent Pajot,Saint-Étienne,872,0.04641608250751129
+Jean-Victor Makengo,Caen,135,0.04612786061924573
+Younousse Sankharé,Guingamp,1368,0.04603010785541494
+Ismaël Tiémoko Diomandé,Saint-Étienne,172,0.045989335223649494
+Abdoulaye Touré,Nantes,93,0.045525498102501394
+Aloïs Confais,Troyes,653,0.04539633514129971
+Yoann Andreu,Angers,1583,0.045273468330973954
+Mouhamadou Dabo,Troyes,535,0.045241586315856834
+Lucas Silva Borges,Marseille,757,0.04520123848785152
+Jessy Pi,Troyes,1660,0.04504229273746687
+Rémi Walter,OGC Nice,429,0.044875631953858866
+Omenuke Mfulu,Stade de Reims,223,0.04440248809761172
+Charles Traoré,Troyes,234,0.04420217604648516
+Charles Diers,Angers,191,0.04405806212260011
+Rémi Mulumba,Lorient,96,0.04391718044835516
+Alexis Blin,Toulouse,795,0.04384694644587626
+Marco Verratti,Paris Saint-Germain,1443,0.04379074404907845
+Seko Fofana,Bastia,1131,0.04379059756141051
+Cheikh M''Bengue,Rennes,1195,0.04342585822724974
+Birama Touré,Nantes,979,0.04342325721298702
+Vincent Manceau,Angers,1204,0.04341336860475144
+Arnold Mvuemba,Lyon,284,0.04337452696334676
+Joris Marveaux,Montpellier,273,0.04328714857531021
+Pablo Jean Antoine Martínez,Gazélec Ajaccio,1090,0.043179559562616925
+Gregory van der Wiel,Paris Saint-Germain,1113,0.043041679510814834
+Benoît Assou-Ekotto,Saint-Étienne,1076,0.043023916710125946
+Didier Ndong Ibrahim,Lorient,1757,0.0430027448659952
+Florian Marange,Bastia,950,0.04294324316032932
+Olivier Auriac,Angers,223,0.042396942563600076
+Lamine Gassama,Lorient,1583,0.042279203329712564
+Christopher Nkunku,Paris Saint-Germain,280,0.04202721640738151
+Alexander Djiku,Bastia,734,0.04199577525159871
+Gaël Angoula,Angers,556,0.04190423292953719
+Marcel Tisserand,Toulouse,1340,0.04174164405546808
+Joris Gnagnon,Rennes,86,0.04169167043690439
+Prince Oniangué,Stade de Reims,889,0.04149144690200221
+Rafidine Abdullah,Lorient,424,0.04142599562862131
+Lassana Diarra,Marseille,1406,0.04138500759588951
+Ronny Rodelin,Lille,41,0.04122260509017631
+Julien Cardy,Guingamp,250,0.04112608661021875
+Lionel Mathis,Guingamp,777,0.040928154477916215
+Yann Bodiger,Toulouse,696,0.04092166236212795
+Ole Kristian Selnæs,Saint-Étienne,105,0.04088808693828246
+Jonathan Correia Da Fonseca,OGC Nice,159,0.04049553012431903
+Benjamin Pavard,Lille,294,0.04045738079153116
+Abdoulaye Keita,Bastia,23,0.04030768953942414
+Jaba Kankava,Stade de Reims,1219,0.04018048222910914
+Antoine Conte,Stade de Reims,484,0.03991470927016793
+Clément Chantôme,Bordeaux,1529,0.039898309976441115
+Jamel Saihi,Montpellier,411,0.039893629366331014
+Olivier Michel Kemen,Lyon,77,0.03986324543726222
+Ermir Lenjani,Rennes,23,0.03965173440175657
+Alexi Peuget,Stade de Reims,401,0.039621827682165794
+Jérémy Toulalan,AS Monaco,1473,0.039260356673651624
+Jacques-Alaixys Romao,Marseille,836,0.039127841718090445
+Adrien Rabiot,Paris Saint-Germain,1481,0.03892185350154232
+Frédéric Guilbert,Bordeaux,1236,0.038823268489030754
+William Jean Rémy,Montpellier,1274,0.03846999629935499
+Guy Adolphe N''Gosso Massouma,Angers,55,0.03843367494909422
+Rio Antonio Zoba Mavuba,Lille,1445,0.03832682903622762
+Vassiriki Abou Diaby,Marseille,93,0.038070914419641395
+Nicolas Seube,Caen,815,0.037928532558846234
+Lucas Deaux,Nantes,621,0.037814436257423714
+Ellyes Joris Skhiri,Montpellier,385,0.037681086811343294
+Tiemoué Bakayoko,AS Monaco,760,0.03751915195174727
+Rémi Gomis,Nantes,685,0.037476236866708125
+Yacouba Sylla,Rennes,887,0.037454388022303435
+Thiago Motta,Paris Saint-Germain,2916,0.03732490607922378
+Andrea Raggi,AS Monaco,1185,0.03685959770473503
+Yannick Cahuzac,Bastia,1167,0.036636008733317814
+Jérôme Le Moigne,Gazélec Ajaccio,1216,0.036366368569956654
+Abdoulaye Traoré,Bordeaux,242,0.03634712119190299
+Jordan Adéoti,Caen,611,0.035929472099017895
+Moustapha Elhadji Diallo,Guingamp,750,0.035345191342748716
+Ibrahim Amadou,Lille,852,0.03488144584828726
+Romain Saïss,Angers,1689,0.03438433176352174
+Maxime Gonalons,Lyon,1929,0.033778023597329745
+Jérémy Clément,Saint-Étienne,1310,0.03362358725900134
+Ismaël Tiémoko Diomandé,Caen,187,0.03345231897593328
+Benjamin Stambouli,Paris Saint-Germain,1318,0.03333443771527116
+Steeve Yago,Toulouse,632,0.03318187383322801
+Aïssa Bilal Laïdouni,Angers,51,0.03306673693073652
+Mehdi Mostefa Sbaa,Lorient,39,0.033007135425815445
+Stéphan Raheriharimanana,OGC Nice,60,0.03265084074765198
+Thiago Xavier Rodrigues Corrêa,Troyes,452,0.032448999473984406
+Gélson da Conceição Tavares Fernandes,Rennes,1564,0.032393100952299664
+Kévin Gomis,OGC Nice,126,0.03221572509159622
+Mehdi Mostefa Sbaa,Bastia,928,0.03193652910347816
+Erwin Koffi,Lorient,61,0.031871363172006326
+François Bellugou,Lorient,1361,0.03165719773262053
+Grégory Bourillon,Angers,227,0.03044570914995907
+Yassine Jebbour,Bastia,73,0.030432067980268963
+Mathieu Bodmer,OGC Nice,931,0.02919307214507105
+Olivier Boscagli,OGC Nice,527,0.028949153480898708
+Abdou Kader Mangane,Gazélec Ajaccio,1006,0.02873226991394063
+Mickaël Tacalfred,Stade de Reims,597,0.028651958048377918
+Abdelhamid El Kaoutari,Stade de Reims,310,0.02849340675027177
+Nampalys Mendy,OGC Nice,2991,0.028189436483344137
+Jean Ambrose,Bordeaux,1,0.02770633200418115
+Cédric Yambéré,Bordeaux,1074,0.026923285459068056
+Sylvain Armand,Rennes,1742,0.026260194007379837
+Stéphane Sparagna,Marseille,184,0.026209213479573727
+Alaeddine Yahia,Caen,727,0.026148733438156324
+Renato Civelli,Lille,1269,0.02609801690164359
+Ludovic Lamine Sané,Bordeaux,526,0.026046906537594623
+Brou Benjamin Angoua,Guingamp,480,0.025719562640286124
+Moustapha Bayal Sall,Saint-Étienne,1207,0.02566673272266286
+Nicolas Pallois,Bordeaux,767,0.025610431552358915
+Pedro Filipe Teodósio Mendes,Rennes,942,0.025274710620779413
+Marcos Aoás Corrêa,Paris Saint-Germain,1776,0.02524786827085594
+Samuel Yves Umtiti,Lyon,1946,0.025139156778055057
+Anthony Walongwa,Nantes,68,0.025064727365318243
+Daniel Congré,Montpellier,1440,0.024910412121901964
+David Luiz Moreira Marinho,Paris Saint-Germain,1885,0.0248512116511284
+Lamine Koné,Lorient,647,0.024786011067045456
+Aïssa Mandi,Stade de Reims,1393,0.02472153644520211
+Florentin Pogba,Saint-Étienne,986,0.024697365457349876
+Calvin Anele Ngcongca,Troyes,699,0.024696907797800226
+Fallou Diagne,Rennes,943,0.024514702709734337
+Mohamed Fofana,Stade de Reims,378,0.024418622260307995
+Vitorino Hilton da Silva,Montpellier,1597,0.024284194162954485
+Zargo Touré,Lorient,1084,0.024021221265243805
+Romain Genevois,OGC Nice,707,0.02388291493901917
+Loïc Perrin,Saint-Étienne,1268,0.023669685354589874
+Lindsay Rose,Lyon,62,0.023459761745372093
+Syam Ben Youssef,Caen,508,0.023459437815681466
+Jean-Armel Kana-Biyik,Toulouse,677,0.023396766182493426
+Wesley Lautoa,Lorient,518,0.023392111580661734
+François Modesto,Bastia,1004,0.023360322908334497
+Christophe Kerbrat,Guingamp,1107,0.023209027197368264
+Stopilla Sunzu,Lille,412,0.02311600661261349
+Mapou Yanga-Mbiwa,Lyon,1719,0.023102250126964593
+Marko Baša,Lille,633,0.023060324931953008
+Bakary Koné,Lyon,238,0.02291693621445206
+Matthieu Saunier,Troyes,1043,0.02291087577010004
+Lorik Agim Cana,Nantes,763,0.022901635704938916
+Jérémy Sorbon,Guingamp,1248,0.02268962641000727
+Thiago Emiliano da Silva,Paris Saint-Germain,2467,0.02257749978282436
+Issa Diop,Toulouse,769,0.022380902826921192
+Jérémie Bréchet,Gazélec Ajaccio,845,0.02221029840693225
+Bakary Adama Soumaoro,Lille,980,0.022158955278103017
+Oswaldo Augusto Vizcarrondo Araújo,Nantes,1076,0.02210938900112013
+Roderic Filippi,Gazélec Ajaccio,785,0.022094886580616903
+Ricardo Alberto Silveira de Carvalho,AS Monaco,1419,0.022009313369368236
+Damien Da Silva,Caen,969,0.02131972483779478
+Grégory Sertic,Bordeaux,16,0.021277776438407777
+Hamadou Karamoko,Lorient,86,0.021274269187828394
+Karim Rekik,Marseille,1343,0.021205725692017386
+Eddy Maanane,Stade de Reims,4,0.021185970541237498
+Anthony Weber,Stade de Reims,782,0.021154048915947132
+Carlos Eduardo de Castro Lourenço,Troyes,285,0.02100215338764305
+Milan Biševac,Lyon,300,0.020879033259971286
+Pablo Nascimento Castro,Bordeaux,657,0.020806008266273213
+Maxime Le Marchand,OGC Nice,1489,0.020641477124919032
+Mathieu Peybernes,Bastia,782,0.020562546728334387
+Ismaël Traoré,Angers,1119,0.020559784890017023
+Wallace Fortuna dos Santos,AS Monaco,995,0.02050836415175123
+Thimotee Taufflieb,Paris Saint-Germain,8,0.020248203850373382
+Lévy Koffi Djidji,Nantes,755,0.020127901572930727
+Lindsay Rose,Lorient,400,0.02007671356410754
+Rolando Jorge Pires da Fonseca,Marseille,925,0.01983251549852541
+Uroš Spajić,Toulouse,438,0.01983072072231994
+Youssouf Koné,Lille,3,0.01970210684080789
+Paul Baysse,OGC Nice,1718,0.01962073522305292
+Dušan Veškovac,Troyes,506,0.01932487464739627
+Yroundu Musavu-King,Lorient,72,0.01902106648287039
+Nicolas Alexis Julio N'Koulou Ndoubena,Marseille,1646,0.018638088023165394
+Mory Koné,Troyes,119,0.018372117454891427
+Romain Thomas,Angers,1309,0.018163801377425855
+Edson André Sitoe,Rennes,587,0.017560612803849004
+Johan Martial,Troyes,231,0.017479986747909772
+Franck Hery,Guingamp,119,0.016993948702722014
+Sébastien Squillaci,Bastia,836,0.015977904585308837
+Presnel Kimpembe,Paris Saint-Germain,338,0.015529455011585494
+Gautier Lloris,OGC Nice,48,0.013286858604477524
+Kevin Rimane,Paris Saint-Germain,8,0.012025109429285133
+Florent Chaigneau,Lorient,61,0.011996163505413623
+Rémy Vercoutre,Caen,1042,0.011224072193501165
+Clément Maury,Gazélec Ajaccio,1271,0.01112019132786026
+Thomas Vincensini,Bastia,47,0.010245719887266804
+Denis Petrić,Angers,59,0.009860236034398897
+Jérôme Prior,Bordeaux,379,0.009756649753052623
+Ilias Hassani,Bordeaux,6,0.009720671431336612
+Jonas Lössl,Guingamp,1115,0.00952802435028294
+Mamadou Samassa,Guingamp,31,0.009476288365658706
+Alban Lafont,Toulouse,688,0.009398077664947957
+Paul Guerin,Gazélec Ajaccio,48,0.009354765196688855
+Paul Bernardoni,Bordeaux,246,0.009348219364891568
+Geoffrey Jourdren,Montpellier,229,0.009243171715045335
+Johann Carrasso,Stade de Reims,271,0.009210422418414544
+Mathieu Gorgelin,Lyon,31,0.009150607434339498
+Jesper Hansen,Bastia,114,0.009149805922359379
+Johny Placide,Stade de Reims,545,0.009046744211111693
+Rémy Riou,Nantes,1054,0.008977871343607247
+Benjamin Lecomte,Lorient,1244,0.00876580303323108
+Danijel Subašić,AS Monaco,971,0.008671446346085208
+Jean-Louis Leca,Bastia,1137,0.008669083093018696
+Mauro Daniel Goicoechea Furia,Toulouse,246,0.008602731839942564
+Kossi Agassa,Stade de Reims,336,0.008582982527734562
+Laurent Pionnier,Montpellier,682,0.00851156991976642
+Ludovic Butelle,Angers,537,0.0084857587006913
+Ali Nadhoim Ahamada,Toulouse,122,0.008417987484635809
+Jonathan Ligali,Montpellier,165,0.008392912579391325
+Stéphane Ruffier,Saint-Étienne,1190,0.008359528339862622
+Mike Maignan,Lille,92,0.008279894777442617
+Alexandre Letellier,Angers,471,0.00826142810360573
+Cédric Carrasso,Bordeaux,581,0.008254671685000433
+Vincent Enyeama,Lille,1094,0.008211675281522255
+Paul Bernardoni,Troyes,428,0.008208251928939652
+Benoît Guy Robert Costil,Rennes,911,0.008195577154661415
+Maxime Dupé,Nantes,232,0.007926132185882276
+Mouez Hassen,OGC Nice,337,0.007874862944611316
+Jules Goda,Gazélec Ajaccio,92,0.007787439276798903
+Anthony Lopes,Lyon,1065,0.007400240129041078
+Denis Petrić,Troyes,266,0.00723281399605243
+Simon Pouplin,OGC Nice,15,0.007166168246748696
+Steve Mandanda,Marseille,1383,0.0070263282911305035
+Matthieu Dreyer,Troyes,446,0.006972800477725542
+Yoan Cardinale,OGC Nice,716,0.006819704023453365
+Albert Rafetraniaina,OGC Nice,1,0.006751907588906605
+Abdoulaye Diallo,Rennes,169,0.006187239123976503
+Paul Nardi,AS Monaco,44,0.006142453101658064
+Yohann Pelé,Marseille,70,0.005617341166086117
+Kevin Trapp,Paris Saint-Germain,877,0.0054696755396121954
+Salvatore Sirigu,Paris Saint-Germain,93,0.005456139615089154
+Mahamadou Bamba N''Diaye,Troyes,2,0.0040466714334982164
+Nicolas Douchez,Paris Saint-Germain,33,0.004016270149695875

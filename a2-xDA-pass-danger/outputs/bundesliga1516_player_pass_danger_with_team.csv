@@ -1,0 +1,488 @@
+player_name,team_name,passes,pass_danger
+Marvin Friedrich,Schalke 04,1,0.23247934441846158
+Özkan Yıldırım,Werder Bremen,7,0.16467106266090656
+Nico Schulz,Borussia Mönchengladbach,8,0.14550337177219888
+Adnan Januzaj,Borussia Dortmund,57,0.14498786941894354
+Kevin Kampl,Borussia Dortmund,9,0.1393576442014183
+Filip Kostić,VfB Stuttgart,1089,0.11875630079525018
+Melvyn Lorenzen,Werder Bremen,24,0.11490282940194836
+Tim Dierßen,Hannover 96,3,0.11401364937744825
+Karim Bellarabi,Bayer Leverkusen,875,0.11346020108644131
+Noah-Joel Sarenren-Bazee,Hannover 96,60,0.11314027135872766
+Levin Mete Öztunali,Werder Bremen,375,0.10981444211778713
+Douglas Costa de Souza,Bayern Munich,1118,0.1094627827904644
+Marcel Heller,Darmstadt 98,605,0.1089793997648565
+Arjen Robben,Bayern Munich,620,0.10784069445957546
+Karim Onisiwo,FSV Mainz 05,72,0.10755735906529643
+Heung-Min Son,Bayer Leverkusen,18,0.10738600666217399
+Robbie Kruse,Bayer Leverkusen,143,0.10663946460329973
+Henrikh Mkhitaryan,Borussia Dortmund,1487,0.10650718919756202
+Franck Bilal Ribéry,Bayern Munich,558,0.10621246918942673
+Kingsley Coman,Bayern Munich,878,0.10574510375766148
+Konstantin Rausch,Darmstadt 98,633,0.10555372431665638
+Sascha Mölders,Augsburg,7,0.10282697176005577
+Jonas Hofmann,Borussia Dortmund,125,0.10196629619359115
+Gian-Luca Waldschmidt,Eintracht Frankfurt,72,0.10116201505381105
+Kevin De Bruyne,Wolfsburg,107,0.10110043250833026
+Roy Beerens,Hertha Berlin,25,0.10079614837689616
+Marco Reus,Borussia Dortmund,814,0.1006363374647458
+Christian Pulisic,Borussia Dortmund,190,0.10012868020332252
+Dario Lezcano,Ingolstadt,311,0.09995624957855348
+Kevin Volland,Hoffenheim,921,0.09994700460527303
+Branimir Hrgota,Borussia Mönchengladbach,39,0.0996210035804425
+Pierre-Emerick Aubameyang,Borussia Dortmund,552,0.09902318763239461
+Zoltán Stieber,Hamburger SV,2,0.09819288741787616
+Jan Kliment,VfB Stuttgart,45,0.09812799632610757
+Jonathan Schmid,Hoffenheim,419,0.09777960950506565
+Nabil Bahoui,Hamburger SV,56,0.09713257766030234
+Thomas Müller,Bayern Munich,1112,0.09706505455256666
+Admir Mehmedi,Bayer Leverkusen,564,0.09677152685302852
+Alexandru Iulian Maxim,VfB Stuttgart,627,0.09557112189198885
+Mijat Gaćinović,Eintracht Frankfurt,123,0.09498130733132264
+Christian Clemens,FSV Mainz 05,535,0.0949371719319843
+Tobias Werner,Augsburg,193,0.09488810375625678
+Aron Jóhannsson,Werder Bremen,100,0.09474108875006147
+Yoshinori Muto,FSV Mainz 05,265,0.09443226049224585
+Sidney Sam,Schalke 04,9,0.09429359215096661
+Alexander Baumjohann,Hertha Berlin,230,0.09421073599888206
+Zlatko Junuzović,Werder Bremen,1071,0.09357379997553597
+Maximilian Eggestein,Werder Bremen,62,0.09350004400454284
+Thorgan Hazard,Borussia Mönchengladbach,823,0.09291954155911361
+Ibrahima Traoré,Borussia Mönchengladbach,775,0.09283292392679329
+Allan Saint-Maximin,Hannover 96,137,0.09274069347706797
+Valmir Sulejmani,Hannover 96,33,0.09191001139126517
+Ivica Olić,Hamburger SV,54,0.09180535354083147
+Ja-Cheol Koo,FSV Mainz 05,11,0.09176793716148532
+Julian Brandt,Bayer Leverkusen,735,0.0913720281865163
+Valentin Stocker,Hertha Berlin,212,0.09111444173126344
+Tobias Kempe,Darmstadt 98,437,0.09108235695629582
+Hakan Çalhanoğlu,Bayer Leverkusen,1457,0.09040327950167511
+Stefan Lex,Ingolstadt,160,0.09020118491863247
+Ronny Heberson Furtado de Araújo,Hertha Berlin,10,0.08985407221422446
+Alessandro Schöpf,Schalke 04,176,0.08930633377818327
+Lukas Klünter,FC Köln,5,0.08918092107356416
+Jairo Samperio Bustara,FSV Mainz 05,658,0.08903586427520285
+Daniel Ginczek,VfB Stuttgart,190,0.08888990300887054
+Patrick Herrmann,Borussia Mönchengladbach,222,0.08841786213092727
+Bruno Henrique Pinto,Wolfsburg,77,0.08831493971768441
+Maximilian Beister,FSV Mainz 05,1,0.08812396285121481
+Leroy Sané,Schalke 04,616,0.08778031178326971
+Miloš Jojić,FC Köln,222,0.08765117424236606
+Joel Gerezgiher,Eintracht Frankfurt,31,0.08750138804384466
+Borys Tashchy,VfB Stuttgart,52,0.08746249722306028
+Alexander Esswein,Augsburg,568,0.08743742545294647
+Andrej Kramarić,Hoffenheim,336,0.08715080897440652
+Änis Ben-Hatira,Eintracht Frankfurt,168,0.08705935468815659
+Ivan Perišić,Wolfsburg,84,0.08705158771483658
+Arianit Ferati,VfB Stuttgart,46,0.08702371843548393
+Timo Werner,VfB Stuttgart,562,0.08673332567600087
+Raffael Caetano de Araújo,Borussia Mönchengladbach,1184,0.08665017241192687
+Pascal Groß,Ingolstadt,2026,0.0864646749733061
+Joelinton Cassio Apolinário de Lira,Hoffenheim,3,0.08604414746352516
+László Kleinheisler,Werder Bremen,78,0.0857917023140358
+Lukas Hinterseer,Ingolstadt,543,0.08473856448358655
+Felix Klaus,Hannover 96,208,0.08473271035302322
+Stefan Aigner,Eintracht Frankfurt,762,0.08469517880772087
+Nadiem Amiri,Hoffenheim,630,0.0846923468898464
+Robert Lewandowski,Bayern Munich,765,0.0846695808090781
+Mathew Leckie,Ingolstadt,926,0.0844756115286098
+Václav Kadlec,Eintracht Frankfurt,15,0.08441393260162561
+Mario Götze,Bayern Munich,547,0.08423233591641861
+Fin Bartels,Werder Bremen,663,0.08383831749717505
+Dušan Švento,FC Köln,62,0.0834078199213162
+Daniel Caligiuri,Wolfsburg,844,0.08335833689666759
+Haris Seferović,Eintracht Frankfurt,900,0.08331765268563328
+Raúl Marcelo Bobadilla,Augsburg,506,0.08299843510684639
+Yunus Mallı,FSV Mainz 05,873,0.08259102695112225
+Ádám Szalai,Hannover 96,233,0.08258065973758658
+Moritz Hartmann,Ingolstadt,574,0.08257180950322184
+Hiroshi Kiyotake,Hannover 96,996,0.08251975142239525
+Marco Jhonfai Fabián De La Mora,Eintracht Frankfurt,431,0.08217749332393405
+Javier Hernández Balcázar,Bayer Leverkusen,549,0.08213594186656953
+Leonardo Bittencourt,FC Köln,866,0.08213081289571794
+Felix Platte,Darmstadt 98,48,0.08190892125188273
+Gustavo Adrián Ramos Vásquez,Borussia Dortmund,258,0.08147740991813193
+Sambou Yatabaré,Werder Bremen,223,0.08139038343738965
+Salomon Armand Magloire Kalou,Hertha Berlin,666,0.08096856277877269
+Jhon Andrés Córdoba Copete,FSV Mainz 05,266,0.08095977992528376
+Aaron Hunt,Hamburger SV,805,0.08093432708018003
+Julian Draxler,Wolfsburg,726,0.08087150310089455
+Pablo Ezequiel De Blasis,FSV Mainz 05,622,0.0808370937595397
+Mario Vrančić,Darmstadt 98,335,0.08082272551341818
+Steven Zuber,Hoffenheim,220,0.08058308574066005
+Luc Castaignos,Eintracht Frankfurt,208,0.08035901014809063
+Jean-Eric Maxim Choupo-Moting,Schalke 04,732,0.08034944549218238
+Ismail Azzaoui,Wolfsburg,9,0.08000108696048164
+André Schürrle,Wolfsburg,732,0.07979642236700298
+Eduardo Jesús Vargas Rojas,Hoffenheim,557,0.07935305833579911
+Claudio Miguel Pizarro Bossio,Werder Bremen,593,0.07915213913529656
+Klaas-Jan Huntelaar,Schalke 04,520,0.07895110198761976
+Hugo Miguel Pereira de Almeida,Hannover 96,210,0.07869955531050224
+Moritz Leitner,Borussia Dortmund,244,0.07861646888108548
+Artoms Rudņevs,Hamburger SV,163,0.07853087044686609
+Max Meyer,Schalke 04,1023,0.07848775892423475
+Josip Drmic,Borussia Mönchengladbach,142,0.07810200242930741
+Shinji Kagawa,Borussia Dortmund,1436,0.07781868285080468
+Simon Zoller,FC Köln,276,0.07779636389564007
+Kenan Karaman,Hannover 96,505,0.07770726263603299
+Sandro Wagner,Darmstadt 98,914,0.07668578987689602
+Max Kruse,Wolfsburg,1119,0.07665236918274083
+Genki Haraguchi,Hertha Berlin,778,0.07656387396658138
+Daniel Didavi,VfB Stuttgart,1027,0.07653625945171218
+André Hahn,Borussia Mönchengladbach,267,0.07651951163986044
+Elias Kachunga,Ingolstadt,75,0.07623699290665199
+Edgar Prib,Hannover 96,630,0.07604759440414174
+Phillipp Klement,FSV Mainz 05,24,0.07587891337754404
+Philipp Hosiner,FC Köln,154,0.07559400824758972
+Szabolcs Huszti,Eintracht Frankfurt,678,0.07541169724152502
+Max Christiansen,Ingolstadt,457,0.07531232633675884
+Alfredo Morales,Ingolstadt,526,0.07508235110737806
+Marcel Hartel,FC Köln,48,0.07502286694048611
+Nicolai Müller,Hamburger SV,686,0.07461383676780546
+Anthony Ujah,Werder Bremen,593,0.07422300433744965
+Lars Edi Stindl,Borussia Mönchengladbach,1413,0.07417362832509006
+Tim Matavž,Augsburg,71,0.07415903128121441
+Marco Sailer,Darmstadt 98,66,0.07412065393082552
+Franco Matías Di Santo,Schalke 04,299,0.07397714972667845
+Ivo Iličević,Hamburger SV,839,0.07376860125769323
+Maurice Multhaup,Ingolstadt,18,0.07349740674666277
+Robbie Kruse,VfB Stuttgart,27,0.07340424482292474
+Tarik Elyounoussi,Hoffenheim,160,0.07315350491934898
+Ádám Szalai,Hoffenheim,31,0.0728801373148909
+Caiuby Francisco da Silva,Augsburg,771,0.07283335171075674
+Julian Schieber,Hertha Berlin,31,0.07279604388649788
+Dominik Stroh-Engel,Darmstadt 98,119,0.07273076440230326
+Kevin Kuranyi,Hoffenheim,183,0.07248054047517181
+Kazuki Nagasawa,FC Köln,16,0.07247684010685325
+Jan Rosenthal,Darmstadt 98,375,0.07239345999649426
+Martin Harnik,VfB Stuttgart,335,0.07198253574693997
+Roberto Hilbert,Bayer Leverkusen,467,0.07177912807997508
+Dong-Won Ji,Augsburg,308,0.07151891450930305
+Sandro Sirigu,Darmstadt 98,28,0.07148342883231332
+Gonzalo Castro Randon,Borussia Dortmund,1016,0.07145762218096217
+Francisco José Rodriguez Araya,Wolfsburg,19,0.07144197348587389
+Danny Vieira da Costa,Ingolstadt,807,0.07137719812928674
+Sven Schipplock,Hamburger SV,257,0.07104543960670869
+Marcel Risse,FC Köln,1504,0.07083286979774753
+Leandro Putaro,Wolfsburg,12,0.07083207399210516
+Julian Draxler,Schalke 04,116,0.0706488197090476
+Alfreð Finnbogason,Augsburg,292,0.07046874218808466
+Johannes van den Bergh,Hertha Berlin,98,0.07037497342410139
+Nicklas Bendtner,Wolfsburg,104,0.07036424779032616
+Yūya Ōsako,FC Köln,487,0.07023882851117083
+Filip Mladenović,FC Köln,383,0.06995724503272081
+Adelino André Vieira Freitas,Wolfsburg,1304,0.06980460915597425
+Uffe Manich Bech,Hannover 96,212,0.06975553431883694
+Iver Tobias Rørvik Fossum,Hannover 96,323,0.06962920783718578
+Jonas Hofmann,Borussia Mönchengladbach,127,0.06943374562229264
+Mark Uth,Hoffenheim,388,0.0692631287594015
+Kevin Kampl,Bayer Leverkusen,1041,0.0691302835218364
+Marcel Schmelzer,Borussia Dortmund,1602,0.06877416076471243
+Uilson de Souza Paula Júnior,Schalke 04,1285,0.06862403773585146
+Ulisses Alexandre Garcia Lopes,Werder Bremen,243,0.06858250492156218
+Piotr Trochowski,Augsburg,77,0.06857796622849785
+Johannes Flum,Eintracht Frankfurt,80,0.06828801916839834
+Fabian Johnson,Borussia Mönchengladbach,917,0.06826212172461965
+Felix Passlack,Borussia Dortmund,126,0.06805494021392744
+Jiloan Hamad,Hoffenheim,126,0.06798194288684914
+Josip Drmic,Hamburger SV,137,0.06795481028552033
+Mitchell Weiser,Hertha Berlin,1228,0.06789854372349129
+Leon Guwara,Werder Bremen,45,0.06720329192132514
+Markus Suttner,Ingolstadt,618,0.06702002470369348
+Younès Belhanda,Schalke 04,408,0.06697416410574421
+Artem Kravets,VfB Stuttgart,180,0.0669500193443503
+Philipp Ochs,Hoffenheim,246,0.06694541476576628
+Marco Höger,Schalke 04,118,0.06646660234645006
+Marcel Schäfer,Wolfsburg,772,0.066419942223275
+Lukas Rupp,VfB Stuttgart,978,0.0658612081003016
+Stefan Kießling,Bayer Leverkusen,634,0.06562321264684254
+Anthony Modeste,FC Köln,618,0.06562133699828329
+Marc Stendera,Eintracht Frankfurt,1078,0.06504363240121942
+Miiko Martín Albornoz Inola,Hannover 96,1039,0.0649848986330573
+Pierre-Michel Lasogga,Hamburger SV,491,0.06490684907615654
+Halil Altıntop,Augsburg,378,0.06489024619931852
+Vedad Ibišević,Hertha Berlin,571,0.06483388127900457
+Jérôme Gondorf,Darmstadt 98,872,0.06458908347179262
+Mevlüt Erdinç,Hannover 96,49,0.06430542969656987
+Albian Afrim Ajeti,Augsburg,8,0.06425972056453715
+Kevin Großkreutz,VfB Stuttgart,448,0.06399926345948209
+Thiago Alcântara do Nascimento,Bayern Munich,1590,0.0638361001065339
+Sebastian Jung,Wolfsburg,374,0.06376893625777288
+Michael Gregoritsch,Hamburger SV,595,0.06334916286284756
+Artur Sobiech,Hannover 96,415,0.06318977999851125
+Tomáš Pekhart,Ingolstadt,19,0.06236270943968728
+Yannick Gerhardt,FC Köln,795,0.06234084435824025
+Aleksandar Ignjovski,Eintracht Frankfurt,568,0.06225498135230414
+Janek Sternberg,Werder Bremen,201,0.062030417447154894
+Fabian Reese,Schalke 04,3,0.061270308605678114
+Daniel Brosinski,FSV Mainz 05,1362,0.06121400046841578
+Giulio Donati,Bayer Leverkusen,553,0.06096070063110366
+Timothy Chandler,Eintracht Frankfurt,309,0.0607396509512444
+Leon Andreasen,Hannover 96,389,0.060671950438243305
+Sonny Kittel,Eintracht Frankfurt,95,0.060561657222432966
+Vladimír Darida,Hertha Berlin,1710,0.0604089946091292
+Jan Morávek,Augsburg,177,0.059792270079249726
+Danilo Teodoro Soares,Ingolstadt,36,0.059640717488254565
+Julian Korb,Borussia Mönchengladbach,759,0.05949975221272024
+İlkay Gündoğan,Borussia Dortmund,2007,0.05923218208526314
+Emiliano Adrián Insúa Zapata,VfB Stuttgart,1678,0.059214760115728106
+Theodor Gebre Selassie,Werder Bremen,1419,0.059096255880056285
+Tohouri Zahoui Constant Djakpa,Eintracht Frankfurt,413,0.058816906663517465
+Lars Bender,Bayer Leverkusen,545,0.058770512482388855
+Gaëtan Bussmann,FSV Mainz 05,613,0.058769955369337795
+Joo-Ho Park,FSV Mainz 05,48,0.058567512729605635
+Christian Gentner,VfB Stuttgart,1354,0.05846085101992832
+Fabian Holland,Darmstadt 98,451,0.05838773844505042
+Wendell Nascimento Borges,Bayer Leverkusen,1584,0.05810875231824866
+Pavel Kadeřábek,Hoffenheim,1045,0.05794410275390372
+Jeremy Toljan,Hoffenheim,703,0.057928170624697205
+Tobias Levels,Ingolstadt,928,0.05782359140895968
+Sebastian Rode,Bayern Munich,311,0.05779021657091556
+Marvin Plattenhardt,Hertha Berlin,1774,0.05778682260990561
+Markus Feulner,Augsburg,441,0.05767868333976271
+Ja-Cheol Koo,Augsburg,832,0.05736445375360973
+Sebastian Boenisch,Bayer Leverkusen,383,0.0573159625917171
+Jonas Hector,FC Köln,1853,0.05711880156232659
+Dennis Aogo,Schalke 04,1224,0.05708121817954275
+Erik Durm,Borussia Dortmund,527,0.057060623824067666
+Philipp Lahm,Bayern Munich,2127,0.05701525827434089
+Júnior Enrique Díaz Campbell,Darmstadt 98,275,0.05681682202137849
+Hiroki Sakai,Hannover 96,1300,0.056804254369274755
+Christian Träsch,Wolfsburg,1729,0.05676959843866016
+Florian Klein,VfB Stuttgart,670,0.056701420288709246
+Sebastian Rudy,Hoffenheim,964,0.05668961894992274
+Arturo Erasmo Vidal Pardo,Bayern Munich,2027,0.05667837090186876
+Charlison Benschop,Hannover 96,74,0.05619742112008478
+Oscar Wendt,Borussia Mönchengladbach,1740,0.056182112429811686
+Christoph Moritz,FSV Mainz 05,118,0.056173955009552544
+Joo-Ho Park,Borussia Dortmund,260,0.05616991628759409
+Almog Cohen,Ingolstadt,275,0.05615907101684713
+Fynn Arkenberg,Hannover 96,59,0.05600982140752639
+Sascha Riether,Schalke 04,813,0.05590560852521684
+Matthias Ginter,Borussia Dortmund,1336,0.055729054451112515
+Santiago García,Werder Bremen,1304,0.05569536709547378
+Bastian Oczipka,Eintracht Frankfurt,1656,0.05565666146910948
+Peter Pekarík,Hertha Berlin,611,0.05557615589823038
+Florian Grillitsch,Werder Bremen,913,0.05551570350190905
+Manuel Schmiedebach,Hannover 96,1000,0.055334189939352185
+Ahmet Metin Arslan,Hamburger SV,1,0.05532864286158244
+Philip Heise,VfB Stuttgart,90,0.055303557006202944
+Florian Jungwirth,Darmstadt 98,492,0.054807472804003075
+Juan Bernat Velasco,Bayern Munich,948,0.05478394251526926
+Paul Seguin,Wolfsburg,76,0.054734390981945595
+Tin Jedvaj,Bayer Leverkusen,470,0.05471720107383083
+Yanni Regäsel,Eintracht Frankfurt,404,0.054528661885950014
+Dennis Diekmeier,Hamburger SV,669,0.05444144287929142
+Lewis Harry Holtby,Hamburger SV,1795,0.05435452821925052
+Christoph Kramer,Bayer Leverkusen,1558,0.05432505067722864
+Charles Mariano Aránguiz Sandoval,Bayer Leverkusen,224,0.05378135819903881
+Bas Dost,Wolfsburg,398,0.05375598837172546
+Philipp Max,Augsburg,1031,0.05360811116771664
+Sead Kolašinac,Schalke 04,990,0.053494665761011764
+Clemens Fritz,Werder Bremen,1035,0.053176787760286594
+Lukas Fröde,Werder Bremen,50,0.05315097591505531
+György Garics,Darmstadt 98,627,0.05299169893373667
+Robert Bauer,Ingolstadt,724,0.05281276639500286
+Alexander Meier,Eintracht Frankfurt,483,0.0526820322441884
+Márcio Rafael Ferreira de Souza,Bayern Munich,1920,0.05266732833467063
+Florian Niederlechner,FSV Mainz 05,37,0.05252286844905039
+Johannes Geis,Schalke 04,1701,0.052453395953609414
+Konstantinos Stafylidis,Augsburg,381,0.0523238351438181
+Ricardo Iván Rodríguez Araya,Wolfsburg,1563,0.05202823999695947
+Daniel Baier,Augsburg,1511,0.05157413855890101
+Łukasz Piszczek,Borussia Dortmund,1281,0.051423150679505786
+Maximilian Arnold,Wolfsburg,1252,0.05136602269133054
+Paul Verhaegh,Augsburg,1325,0.05113296959401211
+Vladlen Yurchenko,Bayer Leverkusen,156,0.05094753382186899
+Makoto Hasebe,Eintracht Frankfurt,1412,0.05087467449025994
+Gotoku Sakai,Hamburger SV,1031,0.05076069101583065
+Danny Latza,FSV Mainz 05,1189,0.0500365408327984
+Xabier Alonso Olano,Bayern Munich,2351,0.04976807807783856
+Mahmoud Dahoud,Borussia Mönchengladbach,1279,0.04966959563054855
+Aaron Hunt,Wolfsburg,65,0.049539875014275495
+Mart Ristl,VfB Stuttgart,28,0.049399125637368035
+Konstantin Engel,Ingolstadt,87,0.04895609319089415
+Tolga Ciğerci,Hertha Berlin,664,0.048907509293996315
+Nuri Şahin,Borussia Dortmund,509,0.04889636550997058
+Stefan Wannenwetsch,Ingolstadt,9,0.04888384845653346
+Marcel  Hilßner,Werder Bremen,12,0.04877953009443916
+Matthias Ostrzolek,Hamburger SV,1634,0.04830593209668762
+Marlon Frey,Bayer Leverkusen,97,0.048080985912488425
+Luca-Milan Zander,Werder Bremen,35,0.04760180460685417
+Pierre-Emile Højbjerg,Schalke 04,783,0.04750013918824917
+Giulio Donati,FSV Mainz 05,490,0.047224645020549016
+Felix Kroos,Werder Bremen,101,0.04720636272428496
+Slobodan Medojević,Eintracht Frankfurt,252,0.047105536185642644
+Paweł Olkowski,FC Köln,545,0.04707050325035451
+Leon Goretzka,Schalke 04,952,0.04673011726331852
+Suat Serdar,FSV Mainz 05,82,0.046648901164958616
+Julian Weigl,Borussia Dortmund,2277,0.04658721982571108
+Eugen Polanski,Hoffenheim,899,0.04626188234606302
+Maximilian Mittelstädt,Hertha Berlin,73,0.046002873845079006
+Pierre Bengtsson,FSV Mainz 05,714,0.045613799322401054
+Kevin Vogt,FC Köln,861,0.045285164700524516
+Oliver Sorg,Hannover 96,747,0.04480084921213265
+Daniel Tawiah Opare,Augsburg,138,0.04451931735744463
+Marcelo Alfonso Díaz Rojas,Hamburger SV,377,0.04428171106022437
+Ceyhun Gülselam,Hannover 96,423,0.043298114756057805
+Fabian Frei,FSV Mainz 05,441,0.04324496892301033
+David Olatukunbo Alaba,Bayern Munich,2536,0.042992683390275344
+Dominik Kohr,Augsburg,1124,0.042730001946023624
+Mustafa Batuhan Altıntaş,Hamburger SV,6,0.04268339209753249
+Josuha Guilavogui,Wolfsburg,1449,0.04260868449983684
+Pirmin Schwegler,Hoffenheim,743,0.04259078125963301
+Philipp Bargfrede,Werder Bremen,511,0.04245763148508058
+Luca Caldirola,Darmstadt 98,685,0.04233531207244029
+Jin-Su Kim,Hoffenheim,662,0.04222944399311909
+Peter Niemeyer,Darmstadt 98,703,0.04205500674969938
+Albin Ekdal,Hamburger SV,591,0.04181860919809137
+Matthias Zimmermann,VfB Stuttgart,79,0.04159008356605492
+Takashi Inui,Eintracht Frankfurt,10,0.04151119238648398
+Sereso Geoffroy Gonzaroua Dié,VfB Stuttgart,956,0.041492621384096796
+Salif Sané,Hannover 96,1531,0.04102128934932477
+Luiz Gustavo Dias,Wolfsburg,1087,0.0407333151404124
+Andre Hoffmann,Hannover 96,312,0.0405704574295382
+Jens Hegeler,Hertha Berlin,215,0.04047819036232959
+Benjamin Henrichs,Bayer Leverkusen,237,0.040035197572885005
+Marius Wolf,Hannover 96,16,0.0392526171489382
+Carlos Armando Gruezo Arboleda,VfB Stuttgart,18,0.03912084031761351
+Romain Brégerie,Ingolstadt,378,0.039039834432586684
+Julian Baumgartlinger,FSV Mainz 05,1467,0.03899317681746641
+Matthias Lehmann,FC Köln,1363,0.03896622500961358
+Granit Xhaka,Borussia Mönchengladbach,2219,0.03891264972809437
+Gonzalo Alejandro Jara Reyes,FSV Mainz 05,229,0.03849483302753669
+Yanni Regäsel,Hertha Berlin,272,0.03823599281122886
+Joshua Kimmich,Bayern Munich,1527,0.03807525613333658
+Stefan Reinartz,Eintracht Frankfurt,841,0.037938958511589876
+Tobias Strobl,Hoffenheim,1128,0.037722559910171524
+Jérôme Boateng,Bayern Munich,1285,0.03715743170965116
+Waldemar Anton,Hannover 96,246,0.036592597184229976
+Benedikt Höwedes,Schalke 04,534,0.0364028658982059
+Gojko Kačar,Hamburger SV,529,0.03631168543177117
+Per Ciljan Skjelbred,Hertha Berlin,1551,0.036017062599418184
+Sven Bender,Borussia Dortmund,1163,0.035669445624574796
+Mats Hummels,Borussia Dortmund,2349,0.035559196048855345
+Hotaru Yamaguchi,Hannover 96,167,0.035503456874219255
+Roger de Oliveira Bernardo,Ingolstadt,811,0.03458600366159153
+Nico Elvedi,Borussia Mönchengladbach,1063,0.034077268927654863
+Nico Schulz,Hertha Berlin,7,0.03350843286483276
+Daniel Schwaab,VfB Stuttgart,1187,0.03340502160810692
+Javier Martínez Aginaga,Bayern Munich,907,0.03328168374449556
+Papiss Mison Djilobodji,Werder Bremen,667,0.03301565371149722
+Gideon Jung,Hamburger SV,455,0.032294144341258234
+Marco Russ,Eintracht Frankfurt,1021,0.03193155069706114
+Benjamin Gorka,Darmstadt 98,5,0.031870155740208295
+Marvin Wanitzek,VfB Stuttgart,5,0.03169079371960315
+Miloš Pantović,Bayern Munich,1,0.031213104155659747
+Neven Subotić,Borussia Dortmund,454,0.031133967466562072
+Martin Hinteregger,Borussia Mönchengladbach,414,0.03089294640752545
+Håvard Nordtveit,Borussia Mönchengladbach,1768,0.030885868087810693
+Joël Andre Job Matip,Schalke 04,1732,0.030388432659399785
+Tony Jantschke,Borussia Mönchengladbach,607,0.030081035328735014
+Aytac Sulu,Darmstadt 98,568,0.028952817647312695
+Adam Hloušek,VfB Stuttgart,206,0.02850096669131282
+Jannik Vestergaard,Werder Bremen,1292,0.02840437644169047
+Frederik Hillesborg Sørensen,FC Köln,905,0.028120472281673494
+Medhi Amine El Mouttaqi Benatia,Bayern Munich,822,0.02781227762053264
+Sokratis Papastathopoulos,Borussia Dortmund,1862,0.027572585373718678
+Ronaldo Aparecido Rodrigues,Wolfsburg,1790,0.02742263192659657
+Serdar Taşçı,Bayern Munich,194,0.027229761114149313
+Fabian Lukas Schär,Hoffenheim,888,0.02715471081721023
+Alejandro Gálvez Jimena,Werder Bremen,513,0.027086076781697853
+Matija Nastasić,Schalke 04,6,0.02681824148439915
+Dominique Heintz,FC Köln,1484,0.02669792044536349
+Assani Lukimya-Mulongoti,Werder Bremen,380,0.0266217182808405
+Kaan Ayhan,Eintracht Frankfurt,38,0.026417141895335863
+Felipe Trevizan Martins,Hannover 96,28,0.026129127341271284
+Holger Badstuber,Bayern Munich,395,0.025941469902504562
+Ömer Toprak,Bayer Leverkusen,722,0.025628019580993828
+Jeffrey Gouweleeuw,Augsburg,511,0.02533946738918865
+Marvin Matip,Ingolstadt,1056,0.025312618402318885
+Leon Aderemi Balogun,FSV Mainz 05,705,0.02517426658100456
+Carlos Antonio Ascues Ávila,Wolfsburg,6,0.024471728966990833
+Jonathan Tah,Bayer Leverkusen,1194,0.024413234941030947
+Dante Bonfim da Costa Santos,Wolfsburg,1661,0.024298329031080892
+Benjamin Hübner,Ingolstadt,720,0.024287498340753593
+Fabian Lustenberger,Hertha Berlin,1389,0.024213909347567477
+Timm Klose,Wolfsburg,485,0.024113794411914552
+Timo Baumgartl,VfB Stuttgart,688,0.0240843719794467
+Emir Spahić,Hamburger SV,1290,0.024020286695951135
+Jan-Ingwer Callsen-Bracker,Augsburg,346,0.023913609897123957
+Roman Neustädter,Schalke 04,1418,0.02377517087332272
+Marvin Schulz,Borussia Mönchengladbach,267,0.02362296337446092
+Slobodan Rajković,Darmstadt 98,212,0.023452729028583787
+Christian Schulz,Hannover 96,996,0.0233072033382285
+Marcelo Antônio Guedes Filho,Hannover 96,922,0.023279379256639376
+Robin Knoche,Wolfsburg,608,0.023150246551409435
+Stefan Bell,FSV Mainz 05,1563,0.022970770313021936
+Kyriakos Papadopoulos,Bayer Leverkusen,381,0.022889539732141077
+Carlos Augusto Zambrano Ochandarte,Eintracht Frankfurt,920,0.022570031476282712
+Alexander Milosevic,Hannover 96,340,0.02238567812910187
+Ermin Bičakčić,Hoffenheim,760,0.02237692609033089
+Andreas Christensen,Borussia Mönchengladbach,1807,0.02218379956824408
+Johan Danon Djourou-Gbadjere,Hamburger SV,1123,0.022083206565698083
+Niklas Stark,Hertha Berlin,794,0.021832133153849426
+Cleber Janderson Pereira Reis,Hamburger SV,758,0.021779859899392632
+Georg Niedermeier,VfB Stuttgart,638,0.021553095328915445
+Christoph Janker,Augsburg,150,0.02144110510708608
+Niklas Süle,Hoffenheim,1691,0.021409983217323028
+André Ramalho Silva,Bayer Leverkusen,612,0.021396491196151852
+Ragnar Klavan,Augsburg,1501,0.02139575152017029
+David Kinsombi,Eintracht Frankfurt,15,0.021287738918281323
+Jeong-Ho Hong,Augsburg,919,0.02118126706234122
+Mike-Steven Bähre,Hannover 96,4,0.021163094547314985
+Niko Bungert,FSV Mainz 05,873,0.020976614114410454
+Álvaro Domínguez Soto,Borussia Mönchengladbach,302,0.02061736215788707
+Roel Brouwers,Borussia Mönchengladbach,185,0.02055126015837087
+John Anthony Brooks,Hertha Berlin,1211,0.020309725707294952
+Florian Kohls,Hertha Berlin,3,0.020142519286476212
+Oliver Hüsing,Werder Bremen,1,0.020059993785040933
+Toni Šunjić,VfB Stuttgart,516,0.019895237711144695
+Federico Barba,VfB Stuttgart,75,0.019894927476235922
+Sebastian Langkamp,Hertha Berlin,1190,0.019861608265434365
+David Ángel Abraham,Eintracht Frankfurt,1104,0.019683044493313658
+Martin Stranzl,Borussia Mönchengladbach,119,0.019364619351544734
+Alexander Hack,FSV Mainz 05,372,0.01918767462824464
+Mërgim Mavraj,FC Köln,387,0.018193143869058848
+Dominik Maroh,FC Köln,1162,0.01788670736547346
+Russell Canouse,Hoffenheim,8,0.01702133647973946
+Dante Bonfim da Costa Santos,Bayern Munich,17,0.0167339268740794
+Milos Veljkovic,Werder Bremen,18,0.01664329129209671
+Nico Rinderknecht,Eintracht Frankfurt,2,0.015941411333268984
+Ramazan Özcan,Ingolstadt,1102,0.0140830224397314
+Christian Mathenia,Darmstadt 98,1067,0.01315484464031405
+Ørjan Håskjold Nyland,Ingolstadt,214,0.01305533498424048
+Tom Mickel,Hamburger SV,24,0.010680719998745694
+David Yelldell,Bayer Leverkusen,20,0.010121788800816631
+Jaroslav Drobný,Hamburger SV,314,0.009758119707394026
+Łukasz Załuska,Darmstadt 98,32,0.009411259673605763
+Andreas Hirzel,Hamburger SV,21,0.009349997890949948
+Timo Horn,FC Köln,1003,0.009086010959254973
+Ron-Robert Zieler,Hannover 96,1227,0.008826099902290267
+Felix Wiedwald,Werder Bremen,1033,0.008793904133759398
+Lukáš Hrádecký,Eintracht Frankfurt,1342,0.008782401109058842
+René Adler,Hamburger SV,831,0.008651941713138704
+Marwin Hitz,Augsburg,1229,0.008620203507079541
+Bernd Leno,Bayer Leverkusen,1092,0.00850932544243364
+Loris Karius,FSV Mainz 05,1265,0.008404620874054226
+Oliver Baumann,Hoffenheim,1478,0.008273848057679436
+Rune Almenning Jarstein,Hertha Berlin,1399,0.00815735067098841
+Przemysław Tytoń,VfB Stuttgart,919,0.008153158064323558
+Felix Platte,Schalke 04,1,0.007803654119050282
+Mitchell James Langerak,VfB Stuttgart,57,0.007751452987517186
+Roman Bürki,Borussia Dortmund,1012,0.0076575068399552405
+Roman Weidenfeller,Borussia Dortmund,29,0.007627660649503235
+Dario Kresic,Bayer Leverkusen,18,0.007533277290646706
+Alexander Manninger,Augsburg,36,0.007504671176000954
+Thomas Kraft,Hertha Berlin,247,0.007471101675295423
+Thomas Kessler,FC Köln,27,0.007442240725313396
+Ralf Fährmann,Schalke 04,1333,0.007259764947773889
+Yann Sommer,Borussia Mönchengladbach,1375,0.007068372221076064
+Odisseas Vlachodimos,VfB Stuttgart,60,0.007047716345425472
+Jens Grahl,Hoffenheim,25,0.006940249302285527
+Manuel Neuer,Bayern Munich,1288,0.006862446059199019
+Tobias Sippel,Borussia Mönchengladbach,75,0.006626802643835957
+Koen Casteels,Wolfsburg,486,0.006605425408869388
+Diego Orlando Benaglio,Wolfsburg,733,0.006438572537763693
+Sven Ulreich,Bayern Munich,18,0.005085153793741337
+Devante James Parker,FSV Mainz 05,1,0.0047748233807995595
