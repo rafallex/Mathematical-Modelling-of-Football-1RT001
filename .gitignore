@@ -4,5 +4,6 @@ __pycache__/
 .DS_Store
 statsbomb/
 open-data/
+events_*.json
 *.zip
 .env
