@@ -1,0 +1,581 @@
+player_name,team_name,passes,pass_danger
+Aaron Mattia Tabacchi,Bologna,9,0.15254835395308666
+Kingsley Coman,Juventus,29,0.13383909452606363
+Accursio Bentivegna,Palermo,6,0.12378545478490581
+Filippo Falco,Bologna,142,0.12246913876989811
+Rodrigo Sebastián Aguirre Soto,Udinese,68,0.12004536573039847
+Jonathan de Guzmán,Carpi,37,0.11870358083141092
+Rey Manaj,Inter Milan,8,0.11558046223697653
+Nicola Sansone,Sassuolo,1026,0.11458145154232116
+Keita Baldé Diao,Lazio,670,0.11398265063039886
+Alejandro Miguel Rodriguez,Sampdoria,3,0.113193534370877
+Ante Rebić,Fiorentina,132,0.11304205012646325
+Darko Lazović,Genoa,342,0.1127017957710004
+Antonio Di Natale,Udinese,345,0.11185351102605498
+Alessio Cerci,AC Milan,269,0.11178992157893065
+Fernando Llorente Torres,Juventus,4,0.11174918806519445
+Ricardo Kishna,Lazio,254,0.11019968722195159
+Anderson Hernanes de Carvalho Andrade,Inter Milan,30,0.10899654508642408
+Alessio Cerci,Genoa,194,0.10773448251347542
+Domenico Berardi,Sassuolo,1076,0.10761055315552777
+Alejandro Darío Gómez,Atalanta,1414,0.10718552659769728
+Serge Gakpé,Atalanta,18,0.10704708896505508
+Paulo Bruno Exequiel Dybala,Juventus,1230,0.1058671919723522
+Franco Zuculini,Bologna,16,0.1052277455487336
+Luca Siligardi,Hellas Verona,559,0.10495912697386482
+M''Baye Babacar Niang,AC Milan,377,0.10475420112396733
+Carlos Arturo Bacca Ahumada,AC Milan,679,0.10455509404842349
+Antonio Cassano,Sampdoria,814,0.10391331346489711
+Paweł Wszołek,Hellas Verona,615,0.10381474119227954
+Antonio Candreva,Lazio,1266,0.10377626329529453
+Mohamed Salah,AS Roma,1196,0.10365440557051188
+Mario Barwuah Balotelli,AC Milan,361,0.10341987357985556
+Adem Ljajić,Inter Milan,906,0.10263617318631255
+Gervais Lombe Yao Kouassi,AS Roma,330,0.10236239473237177
+Serge Gakpé,Genoa,200,0.10231405405872084
+Matteo Politano,Sassuolo,445,0.1015593296682339
+Marco D''Alessandro,Atalanta,373,0.10134010259103532
+Diego Perotti,Genoa,665,0.10060278055215584
+Jesús Joaquín Fernández Sáez de la Torre,AC Milan,36,0.10051495010687397
+Rodrigo Sebastián Palacio,Inter Milan,581,0.10031573719828056
+Maximiliano Nicol Moralez,Atalanta,799,0.09925163666058376
+Diego Perotti,AS Roma,796,0.09881685551745092
+Ciro Immobile,Torino,273,0.09871179787173874
+Dries Mertens,Napoli,578,0.0983108997563909
+Alessandro Diamanti,Atalanta,603,0.0980641999164278
+Jerry Uche Mbakogu,Carpi,454,0.0978770198077248
+Andrés Fabián Ponce Núñez,Sampdoria,3,0.09765237528842158
+Antonio Floro Flores,Chievo,236,0.09722405491101055
+Anthony Mounier,Bologna,725,0.09714521489191141
+Francesco Totti,AS Roma,307,0.0969711317431524
+Simone Verdi,Carpi,107,0.09696370773229696
+Jesús Joaquín Fernández Sáez de la Torre,Genoa,655,0.09691014060784735
+Diego Ángel Capel Trinidad,Genoa,273,0.09687910178570852
+Ryder Matos Santos,Udinese,118,0.09671842810430703
+Aleksandar Trajkovski,Palermo,553,0.0966385600933911
+Massimo Maccarone,Empoli,648,0.09638072332848158
+Matteo Mancosu,Bologna,61,0.0960579941432389
+Alessandro Matri,Lazio,185,0.0954986127161429
+Federico Dionisi,Frosinone,616,0.09435685306771911
+Franco Damián Vázquez,Palermo,1555,0.09407970314152904
+Ryder Matos Santos,Carpi,381,0.09362295450634883
+Ante Rebić,Hellas Verona,160,0.09333760132983818
+Giacomo Bonaventura,AC Milan,1684,0.09330727521881678
+Antonio Di Gaudio,Carpi,392,0.0930935688774097
+Goran Pandev,Genoa,273,0.09299205144404636
+Stevan Jovetić,Inter Milan,892,0.09296836474322542
+Robin Quaison,Palermo,563,0.09259460500276169
+Valter Birsa,Chievo,1082,0.0924990857374516
+Jonathan Ludovic Biabiany,Inter Milan,372,0.09245731475905405
+Luiz Adriano de Souza da Silva,AC Milan,274,0.09237718772969478
+Eder Citadin Martins,Sampdoria,508,0.09185036120061164
+Massimiliano Carlini,Frosinone,135,0.09154903758193558
+Marko Livaja,Empoli,195,0.09154571234902054
+Duván Esteban Zapata Banguera,Udinese,326,0.09135134829403853
+Mauricio Aníbal Isla Isla,Juventus,13,0.09093386302553061
+Juan Manuel Iturbe Arévalo,AS Roma,99,0.09045209949740268
+Maximiliano Gastón López,Torino,210,0.09035023979654495
+Felipe Anderson Pereira Gomes,Lazio,1069,0.08995805984643106
+Aleksandar Tonev,Frosinone,270,0.08993868114170203
+Sergio Floccari,Sassuolo,92,0.08897531507571385
+Emanuele Giaccherini,Bologna,1138,0.08892070358581969
+Mauro Matías Zárate,Fiorentina,265,0.08881289298563654
+Keisuke Honda,AC Milan,981,0.08873340571024889
+Andrea Lazzari,Carpi,188,0.08864809273029545
+Marcello Trotta,Sassuolo,50,0.08842765777458768
+Kevin Lasagna,Carpi,376,0.0884105195097054
+Riccardo Saponara,Empoli,1202,0.08828111282441742
+Danilo Soddimo,Frosinone,853,0.08824872994672178
+Ivan Perišić,Inter Milan,1255,0.08791401062136031
+Sergio Pellissier,Chievo,194,0.08786134854858706
+Stephan El Shaarawy,AS Roma,536,0.08768829839937968
+Kevin-Prince Boateng,AC Milan,147,0.0875000985554331
+Paul-José M''Poku Ebunge,Chievo,380,0.0872976996591245
+Franco Brienza,Bologna,916,0.08661682925543884
+Luis Fernando Muriel Fruto,Sampdoria,512,0.0863779547013078
+Iago Falqué Silva,AS Roma,603,0.08620011995322643
+Ricardo Gabriel Álvarez,Sampdoria,415,0.08592451170184476
+Antonio Floro Flores,Sassuolo,265,0.08586882107011745
+Lorenzo Insigne,Napoli,1718,0.08571559380710232
+Eder Citadin Martins,Inter Milan,209,0.08560592086936007
+Joseph Alfred Duncan,Sassuolo,1284,0.08528706480728727
+Cristian Tello Herrera,Fiorentina,510,0.08528659034995308
+Riccardo Meggiorini,Chievo,446,0.08522316814996889
+Josip Iličić,Fiorentina,1078,0.08508259306942201
+Juan Guillermo Cuadrado Bello,Juventus,1072,0.08492581233136415
+Jérémy Ménez,AC Milan,167,0.08470411642528067
+Lorenzo Pasciuti,Carpi,844,0.08465436701909632
+Simone Pepe,Chievo,509,0.0840758005444675
+Mauro Emanuel Icardi Rivero,Inter Milan,558,0.08401276669985303
+Edin Džeko,AS Roma,598,0.08396143365813942
+Manuel Pucciarelli,Empoli,1058,0.08389679225655822
+Giuseppe Rossi,Fiorentina,155,0.08389156746648509
+Marco Borriello,Atalanta,218,0.08379058610627585
+Gaetano Monachello,Atalanta,69,0.0837532902103375
+Daniele Baselli,Torino,903,0.08330303211941037
+Marco Borriello,Carpi,207,0.08324618690649456
+Carlos Joaquín Correa,Sampdoria,652,0.08323817617619611
+Samuele Longo,Frosinone,58,0.08318487644248038
+Matteo Mancosu,Carpi,130,0.08317633031761879
+Tim Matavž,Genoa,105,0.08309726333222507
+Norbert Sándor Balogh,Palermo,22,0.08285547047636362
+Amauri Carvalho de Oliveira,Torino,4,0.08225994178552448
+Stefano Sabelli,Carpi,211,0.08223515287703022
+Gonzalo Gerardo Higuaín,Napoli,943,0.08206932788406347
+Gregoire Defrel,Sassuolo,583,0.08194649500649842
+Omar El Kaddouri,Napoli,171,0.08191367124020554
+Khouma El Hadji Babacar,Fiorentina,175,0.08111655193715306
+Jules Olivier Ntcham,Genoa,535,0.0810980004878472
+Uroš Đurđević,Palermo,87,0.0810713733236211
+Sergio Floccari,Bologna,360,0.08089660762940354
+Diego Falcinelli,Sassuolo,224,0.08070246592988403
+Filip Đorđević,Lazio,338,0.08066047496217478
+Afriyie Acquah,Torino,702,0.0805426379468667
+Álvaro Borja Morata Martín,Juventus,518,0.08015022443738112
+Matías Ariel Fernández Fernández,Fiorentina,695,0.08004174808779566
+Bruno Miguel Borges Fernandes,Udinese,1135,0.07982067477816873
+Fabio Quagliarella,Sampdoria,287,0.07981002692590176
+Daniele Verde,Frosinone,44,0.07979349349379004
+Juan Camilo Zúñiga Mosquera,Bologna,155,0.07972465776013575
+Federico Mattiello,Chievo,80,0.0796782400609414
+Karim Laribi,Sassuolo,281,0.07957040018196994
+Mario Mandžukić,Juventus,562,0.07905462707847238
+Nikola Kalinić,Fiorentina,566,0.07898737645693255
+Luca Rizzo,Bologna,549,0.0789226626043792
+Raphael Martinho Alves de Lima,Carpi,233,0.07889192979981242
+Giampaolo Pazzini,Hellas Verona,370,0.07872964381007816
+Mattia Zaccagni,Hellas Verona,19,0.07851704261476315
+Filippo Costa,Chievo,73,0.07842948458465307
+Boško Janković,Hellas Verona,237,0.07834848523416825
+Simone Zaza,Juventus,171,0.07831708776212185
+Danilo Fernando Avelar,Torino,192,0.07774354146275055
+Joan Verdú Fernández,Fiorentina,160,0.07751933061496316
+Luca Paganini,Frosinone,501,0.07736349990880764
+Roberto Maximiliano Pereyra,Juventus,442,0.0771285577136873
+Remo Freuler,Atalanta,159,0.0769859819880419
+Davide Zappacosta,Torino,750,0.07688778465236787
+Luca Toni,Hellas Verona,360,0.07665480275351795
+Panagiotis Giorgios Kone,Fiorentina,3,0.07654301138410839
+Cyril Théréau,Udinese,1214,0.07626069192716227
+Oscar Hiljemark,Palermo,1311,0.07579793536791637
+Federico Bernardeschi,Fiorentina,1095,0.0757838079277606
+Miralem Pjanić,AS Roma,2395,0.07550393026324294
+Juan Ignacio Gómez Taleb,Hellas Verona,652,0.07543323340834918
+Andrea Rispoli,Palermo,780,0.07538030903114902
+Roberto Inglese,Chievo,307,0.07505701859964804
+Marcelo Brozović,Inter Milan,1841,0.07469153875790979
+Carlos Mario Carbonero Mancilla,Sampdoria,544,0.07461011515441035
+Marco Benassi,Torino,661,0.07446807153598317
+Wallace Oliveira dos Santos,Carpi,85,0.07444960248307429
+Franco Signorelli,Empoli,15,0.07425561226060433
+Mattia Destro,Bologna,413,0.0741355211911413
+Borja Valero Iglesias,Fiorentina,2341,0.07402110254247748
+José María Callejón Bueno,Napoli,1446,0.0740085619517186
+Stipe Perica,Udinese,91,0.07377898566265718
+Miroslav Klose,Lazio,317,0.07370662858050299
+Oliver Kragl,Frosinone,293,0.07368824451404868
+Fabio Quagliarella,Torino,307,0.07368468421133897
+Mauricio Ricardo Pinilla Ferreira,Atalanta,351,0.07319757434972761
+Manolo Gabbiadini,Napoli,160,0.0728941445645512
+Antonio Nocerino,AC Milan,38,0.0726115833168967
+Andrea Belotti,Torino,536,0.07256002186237369
+Jacopo Sala,Hellas Verona,756,0.07254613582841044
+Sergej Milinković-Savić,Lazio,826,0.07250175554416345
+Maicon Douglas Sisenando,AS Roma,840,0.07215395826883017
+Emil Hallfreðsson,Hellas Verona,668,0.07208907357790784
+Alex Sandro Lobo Silva,Juventus,1048,0.07197884366916504
+Diego Sebastián Laxalt Suárez,Genoa,1533,0.07194708467793465
+Jakub Błaszczykowski,Fiorentina,464,0.07172150900022715
+Emil Hallfreðsson,Udinese,270,0.07143043540728392
+Stefano Mauri,Lazio,203,0.07139073749619335
+Nicolás Ignacio Castillo Mora,Frosinone,74,0.07122444163253908
+Edenílson Andrade dos Santos,Udinese,1209,0.07120257311679193
+Silvan Widmer,Udinese,905,0.07115774183198974
+Paweł Wszołek,Sampdoria,8,0.07099422744103398
+Umar Sadiq Mesbah,AS Roma,46,0.07094021019915003
+Joel Chukwuma Obi,Torino,184,0.07084029657191318
+Urby Emanuelson,Hellas Verona,366,0.07041600898259251
+Lorenzo Di Livio,AS Roma,8,0.07034777884673502
+Paul Pogba,Juventus,1786,0.07023803541997715
+Daniel Ciofani,Frosinone,608,0.0702055369989489
+Rômulo Souza Orestes Caldeira,Hellas Verona,162,0.07018888090898465
+Levan Mchedlidze,Empoli,86,0.07006556021237073
+Leonardo Pavoletti,Genoa,450,0.06978651573460334
+Giovanni Pasquale,Udinese,124,0.06961013209721399
+Daniele Croce,Empoli,893,0.06923328568521138
+Lorenzo Pellegrini,Sassuolo,614,0.06922726106827225
+Marcelo Alejandro Estigarribia Balmori,Atalanta,17,0.06912640090538656
+Roberto Soriano,Sampdoria,1354,0.06902625444512733
+Alberto Paloschi,Chievo,382,0.06888491859892076
+Alberto Facundo Costa,Genoa,711,0.0688296881593639
+Blerim Džemaili,Genoa,835,0.0688177172213063
+Godfred Donsah,Bologna,496,0.06872341569208665
+Ali Adnan Kadhim Al Tameemi,Udinese,1002,0.06861894709865547
+Fredy Alejandro Guarín Vásquez,Inter Milan,494,0.06848306690377406
+Gilberto Moraes Junior,Hellas Verona,124,0.06847638276941449
+Alberto Gilardino,Palermo,539,0.06837397622485683
+José Rodolfo Pires Ribeiro,Sampdoria,637,0.06817212588016289
+Giuseppe Pezzella,Palermo,288,0.06761957554342783
+Alexander Farnerud,Torino,69,0.06755355080468975
+Daniel Pavlovic,Frosinone,993,0.06750869338579243
+Germán Gustavo Denis,Atalanta,334,0.06749832233493794
+Davide Biondini,Sassuolo,512,0.06743320222140685
+Jasmin Kurtič,Atalanta,1069,0.0668636601811111
+Emerson Palmieri dos Santos,AS Roma,101,0.06654998090343821
+Marco Crimi,Carpi,348,0.06638212505148268
+Alex Nicolao Telles,Inter Milan,1174,0.0663760886860752
+Lucas Nahuel Castro,Chievo,1232,0.06617712776401517
+Stefano Sturaro,Juventus,502,0.06611176755565087
+Diogo José Rosário Gomes Figueiras,Genoa,264,0.06583558978563175
+Issa Cissokho,Genoa,421,0.06578992602765535
+Marek Hamšík,Napoli,3094,0.06571267446898546
+Michel Morganella,Palermo,493,0.06545870686344119
+Kamil Wilczek,Carpi,33,0.06532314725274396
+Stephan Lichtsteiner,Juventus,1067,0.06499038967876185
+Francesco Lodi,Udinese,1378,0.06493568892341808
+Gaetano Letizia,Carpi,1587,0.06483189523913634
+Pablo Estífer Armero,Udinese,176,0.06481362600682729
+Panagiotis Tachtsidis,Genoa,531,0.06474334329591584
+Piotr Zieliński,Empoli,1753,0.0647433054678047
+Yuto Nagatomo,Inter Milan,1044,0.0645625211040515
+Luca Marrone,Hellas Verona,512,0.06435160329665499
+Šime Vrsaljko,Sassuolo,2055,0.06432164617947889
+Nikola Ninković,Chievo,5,0.06425064255605525
+Andrea Bertolacci,AC Milan,987,0.06419353792831592
+Lazaros Christodoulopoulos,Sampdoria,164,0.06416875725633307
+Tomás Eduardo Rincón Hernández,Genoa,1712,0.06403196292035168
+Aleandro Rosi,Frosinone,950,0.06397907287100332
+Senad Lulić,Lazio,1546,0.06377528090407258
+Cristian Daniel Ansaldi,Genoa,1086,0.06359440513046943
+Gilberto Moraes Junior,Fiorentina,151,0.06345840043633988
+Alessandro Florenzi,AS Roma,1879,0.06325759204705086
+Juraj Kucka,AC Milan,1025,0.06323606737993126
+Michele Rocca,Sampdoria,15,0.06320545493182134
+Luca Rigoni,Palermo,224,0.06319355587051546
+Achraf Lazaar,Palermo,1357,0.0631891070197545
+Matteo Fedele,Carpi,226,0.06300115953964136
+Ravel Morrison,Lazio,48,0.06286696363530983
+Perparim Hetemaj,Chievo,1106,0.06262155623765767
+Alessandro Piu,Empoli,61,0.06252958904283965
+Marco Antônio De Mattos Filho,Udinese,218,0.062433283420977696
+Patrice Evra,Juventus,1324,0.062384198156227096
+Robert Acquafresca,Bologna,51,0.06232447070605864
+Kevin Strootman,AS Roma,168,0.06230182942135517
+Roberto Gagliardini,Atalanta,36,0.06224467843093389
+Marcos Alonso Mendoza,Fiorentina,1704,0.06222240841943275
+Josef Alexander Martínez Mencia,Torino,154,0.06220285540888834
+Cristian Molinaro,Torino,1093,0.0621308613263475
+Samuel Souprayen,Hellas Verona,961,0.06210387196191589
+Manuel Pasqual,Fiorentina,759,0.06205531650530387
+Allan Marques Loureiro,Napoli,1861,0.06183668474049868
+Radja Nainggolan,AS Roma,1793,0.0617590022462618
+Andrea Poli,AC Milan,277,0.06165437461749303
+Alberto Grassi,Atalanta,381,0.061589032698909356
+Archimede Morleo,Bologna,208,0.06141144568701112
+Davide Calabria,AC Milan,246,0.06095761036886643
+Lorenzo De Silvestri,Sampdoria,756,0.06095236057483622
+Rade Krunić,Empoli,168,0.06083702770228625
+Lorenzo Lollo,Carpi,700,0.06081149464109717
+Lucas Digne,AS Roma,2020,0.06071878666894949
+Mattia De Sciglio,AC Milan,1172,0.0606787048930055
+Luca Rigoni,Genoa,541,0.06064776883676738
+Antonino La Gumina,Palermo,14,0.0605204579429291
+Gabriel Moisés Antunes da Silva,Genoa,365,0.060335601205761265
+Federico Peluso,Sassuolo,1653,0.06020983836378345
+Ivaylo Chochev,Palermo,854,0.0599657786671886
+Danilo Cataldi,Lazio,931,0.059731083915523606
+Kwadwo Asamoah,Juventus,344,0.05969555748949138
+Emil Krafth,Bologna,95,0.05952828137175677
+Ronaldo Pompeu da Silva,Empoli,123,0.059399998390268084
+Djamel Eddine Mesbah,Sampdoria,276,0.05939943083429
+Gabriel Moisés Antunes da Silva,Carpi,574,0.059213423468575756
+Faouzi Ghoulam,Napoli,2456,0.05920807930683179
+Emmanuel Agyemang-Badu,Udinese,932,0.05916398096237207
+Davide Brivio,Atalanta,653,0.05912071309676014
+Luca Cigarini,Atalanta,1287,0.05900766393487518
+Alessandro Frara,Frosinone,449,0.05889299582758701
+Marco Parolo,Lazio,1218,0.05866444933764943
+José Mauri,AC Milan,148,0.0586112586584272
+Alexander Merkel,Udinese,38,0.058484075525137305
+Abdoulay Konko,Lazio,1065,0.0581378894412563
+Simone Missiroli,Sassuolo,992,0.0580162987904167
+Mirko Valdifiori,Napoli,464,0.05796222193512975
+Nathaniel Chalobah,Napoli,44,0.057898122823570916
+Jacopo Sala,Sampdoria,111,0.057859310555323396
+Jorge Luiz Frello Filho,Napoli,3779,0.05779740665925504
+Artur Ioniţă,Hellas Verona,863,0.0576881983932768
+Sami Khedira,Juventus,816,0.05749985419396642
+Saphir Sliti Taïder,Bologna,1086,0.057447407141051066
+Dávid Ivan,Sampdoria,547,0.057384389398467336
+Martín Montoya Torralbo,Inter Milan,204,0.05733930947555279
+Bruno da Silva Peres,Torino,1262,0.057323503311991306
+Riccardo Fiamozzi,Genoa,220,0.05717307064759736
+Ibrahima Mbaye,Bologna,642,0.05712153273322235
+Leandro Greco,Hellas Verona,996,0.056675815938944385
+Federico Bonazzoli,Sampdoria,23,0.05658313515313088
+Federico Viviani,Hellas Verona,1211,0.056552211445734565
+Robert Gucher,Frosinone,612,0.05650721954472496
+Luca Antonelli,AC Milan,1555,0.056468859619393526
+Davide Santon,Inter Milan,646,0.05617470652840464
+Eros Pisano,Hellas Verona,1572,0.05586919667411756
+Assane Demoya Gnoukouri,Inter Milan,50,0.05582677204040979
+Mohamed Salim Fares,Hellas Verona,281,0.05544722527243601
+Yussif Raman Chibsah,Frosinone,436,0.05521614184577887
+Alex Ferrari,Bologna,674,0.055082742227631466
+Salih Uçan,AS Roma,23,0.054792247935621964
+Massimo Gobbi,Chievo,1689,0.05458726185348979
+Marcello Gazzola,Sassuolo,222,0.054521216930281134
+Paolo Sammarco,Frosinone,914,0.05427414216284988
+Kévin Constant,Bologna,234,0.053826806283535936
+Anderson Hernanes de Carvalho Andrade,Juventus,641,0.0534745133998742
+Leandro Daniel Paredes,Empoli,2087,0.05331347479043111
+Adam Masina,Bologna,1570,0.05319571488123621
+David López Silva,Napoli,578,0.05314202077011649
+Marcel Büchel,Empoli,886,0.05310034221054444
+Geoffrey Kondogbia,Inter Milan,1319,0.0530815878501355
+Erick Antonio Pulgar Farfán,Bologna,359,0.052965406698745464
+Gastón Brugman,Palermo,610,0.05293927689936063
+Filippo Porcari,Carpi,89,0.05283781462964299
+Ignazio Abate,AC Milan,1632,0.05279627809181119
+Lucas Rodrigo Biglia,Lazio,1991,0.052613783820491596
+Matteo Brighi,Bologna,608,0.05250490215047604
+Boukary Dramé,Atalanta,1289,0.05248883912837221
+Mario Suárez Mata,Fiorentina,465,0.05240833926629783
+Fabio Daprelà,Palermo,78,0.05191079418586579
+Édgar Osvaldo Barreto Cáceres,Sampdoria,1025,0.05184388415589084
+Raffaele Bianco,Carpi,859,0.05176862701189985
+Andrea Conti,Atalanta,431,0.05169521421153988
+Danilo D''Ambrosio,Inter Milan,946,0.051653271470096095
+Fernando Lucas Martins,Sampdoria,2190,0.0512603632256033
+Elseid Hysaj,Napoli,2525,0.05115698321418534
+Cristian Raimondi,Atalanta,362,0.05074294727405731
+Pedro Miguel Almeida Lopes Pereira,Sampdoria,296,0.05064526824226374
+Roberto Crivello,Frosinone,628,0.05063531200999095
+Ştefan Daniel Radu,Lazio,761,0.05052998610814817
+Gianpaolo Bellini,Atalanta,506,0.050518979465118984
+Michelangelo Albertazzi,Hellas Verona,334,0.05032794348693375
+Luca Bittante,Empoli,381,0.05029741579889501
+Christian Maggio,Napoli,274,0.050081087305628456
+Nigel de Jong,AC Milan,184,0.04976376570504815
+Fabrizio Poli,Carpi,321,0.04972791863628532
+Panagiotis Giorgios Kone,Udinese,120,0.049627441544208575
+Simone Padoin,Juventus,292,0.04940800989043257
+Marco Zambelli,Empoli,789,0.048983238486227196
+Fabio Daprelà,Carpi,27,0.048867339082228324
+Milan Badelj,Fiorentina,1815,0.04860613026639091
+Juraj Kucka,Genoa,49,0.04857893576044931
+Manuel Rolando Iturra Urrutia,Udinese,448,0.04829553059652164
+Seydou Kéita,AS Roma,800,0.04813927551785109
+Mário Rui Silva Duarte,Empoli,2368,0.04813074427158131
+Vassilis Torosidis,AS Roma,370,0.0479089726513739
+Matteo Ciofani,Frosinone,539,0.047822685749652157
+Claudio Marchisio,Juventus,1509,0.04774499011415335
+Guilherme dos Santos Torres,Udinese,229,0.04756502927162197
+Luigi Giorgi,Atalanta,18,0.047300720321907824
+Carlos Emilio Carmona Tello,Atalanta,243,0.04719337969336229
+Nenad Krstičić,Sampdoria,301,0.04695779433300578
+Enzo Maresca,Palermo,675,0.046890644829938405
+Fabio Della Giovanna,Inter Milan,5,0.04688031192720612
+Zdravko Kuzmanović,Udinese,578,0.04672309633642481
+Mato Jajalo,Palermo,1077,0.04670614227878775
+Mirko Gori,Frosinone,973,0.04656063442292095
+Fabrizio Cacciatore,Chievo,1545,0.046471802275806155
+Matías Vecino Falero,Fiorentina,1964,0.04639160396464528
+Dominik Furman,Hellas Verona,17,0.04590796928927749
+Segundo Víctor Ibarbo Guerrero,AS Roma,3,0.04562051751905091
+Riccardo Montolivo,AC Milan,1984,0.04553333990188369
+Nicolas Sebastian Frey,Chievo,756,0.0454505773253062
+Angelo Palombo,Sampdoria,206,0.04543153461998766
+Patricio Gabarrón Gil,Lazio,454,0.045317342917786246
+Bryan Cristante,Palermo,69,0.045298799968186754
+Matuzalém Francelino da Silva,Hellas Verona,176,0.04526955936720341
+Ogenyi Eddy Onazi,Lazio,689,0.04515951994166474
+Dušan Basta,Lazio,1306,0.04506738252110829
+Sanjin Prcić,Torino,18,0.04484761062435586
+Giulio Migliaccio,Atalanta,239,0.04465651837515753
+Gastón Alexis Silva Perdomo,Torino,527,0.04464434854511741
+Raffaele Maiello,Empoli,378,0.04357954683572104
+Nicola Rigoni,Chievo,989,0.04349461589835581
+Ivan Strinić,Napoli,227,0.04344229234227353
+Lorenzo Crisetig,Bologna,194,0.043421118717981204
+Francesco Magnanelli,Sassuolo,2381,0.04331878640294219
+Vasco Regini,Sampdoria,603,0.043136992500869956
+Felipe Melo de Carvalho,Inter Milan,1112,0.043091962129874276
+Giampiero Pinzi,Chievo,488,0.04303129843257833
+Mattia Cassani,Sampdoria,1130,0.04301277809823401
+Isaac Cofie,Carpi,941,0.042642642079620055
+Gennaro Sardo,Chievo,187,0.0425286006529142
+Vincent Laurini,Empoli,1132,0.042236873157263786
+Luca Marrone,Carpi,333,0.042198156268527354
+Aljaž Struna,Palermo,926,0.04218714276973164
+Amadou Diawara,Bologna,1662,0.04198405939998446
+Andrea Masiello,Atalanta,1281,0.04197770077273551
+Alessandro Longhi,Sassuolo,179,0.04142492775501204
+Mario Lemina,Juventus,462,0.04102311154772859
+Manuel Locatelli,AC Milan,60,0.040952377749091454
+Edson Braafheid,Lazio,162,0.04082610890453848
+Cristian Zaccardo,Carpi,956,0.04067008882424127
+William Vainqueur,AS Roma,386,0.040615955669350556
+Norbert Gyömbér,AS Roma,52,0.04052521903638078
+Juan Guilherme Nunes Jesus,Inter Milan,949,0.04030722897798224
+Alberto Facundo Costa,Fiorentina,221,0.039730853513697297
+Simone Edera,Torino,1,0.03960019790920433
+Assane Dioussé El Hadji,Empoli,716,0.03948919176283953
+Ivan Radovanović,Chievo,1364,0.03917062653855655
+Giuseppe Vives,Torino,1438,0.0387021552316121
+Iván Rodrigo Piris Leguizamón,Udinese,853,0.03870042570851232
+Marten de Roon,Atalanta,1669,0.038639612082442744
+Daniele De Rossi,AS Roma,1462,0.0381045883940576
+Nenad Tomović,Fiorentina,1392,0.03806041914720538
+Nikola Maksimović,Torino,832,0.037751902879532
+Gary Alexis Medel Soto,Inter Milan,1797,0.03689339931275859
+Giovanni Marchese,Genoa,354,0.03682788366143551
+Luca Rossettini,Bologna,1310,0.03628415496521356
+José Martín Cáceres Silva,Juventus,300,0.03507980331817803
+Roberto Vitiello,Palermo,301,0.0345376407459969
+Armando Izzo,Genoa,1449,0.03437017093196472
+Giorgio Chiellini,Juventus,1411,0.03401620738789687
+Riccardo Gagliolo,Carpi,1133,0.03368881062716825
+Ervin Zukanović,AS Roma,305,0.03308756441242044
+Alessandro Gazzi,Torino,608,0.03285579437036586
+Sebastian De Maio,Genoa,1098,0.03280404603166323
+Philippe Mexès,AC Milan,227,0.03273762728451725
+Rafael Márquez Álvarez,Hellas Verona,430,0.031142344180077712
+Felipe Dias da Silva dal Belo,Udinese,879,0.030757107117812328
+Andrea Barzagli,Juventus,1959,0.03072213872123296
+Facundo Sebastián Roncaglia,Fiorentina,1918,0.030500085233881747
+Thomas Heurtaux,Udinese,389,0.029836555760311936
+Ervin Zukanović,Sampdoria,694,0.029369532988164575
+Maurizio Domizzi,Udinese,157,0.028609378000978018
+Luca Checchin,Hellas Verona,64,0.02838017745881616
+Abdelhamid El Kaoutari,Palermo,271,0.028247257043002495
+Molla Wagué,Udinese,627,0.028000162142937875
+Cesare Bovo,Torino,1325,0.02783874109893037
+Matteo Bianchetti,Hellas Verona,753,0.027450124583806846
+Raúl Albiol i Tortajada,Napoli,2574,0.027336615795153483
+Modibo Diakité,Sampdoria,235,0.027304053646050076
+Marco Crimi,Bologna,16,0.02729069309903951
+Kalidou Koulibaly,Napoli,2382,0.027244824353978344
+Vangelis Moras,Hellas Verona,1176,0.027163450753409372
+Marios Oikonomou,Bologna,759,0.027012231590545385
+Milan Škriniar,Sampdoria,78,0.026914308036172035
+Antonio Rüdiger,AS Roma,1569,0.026762613807118252
+Edoardo Goldaniga,Palermo,363,0.026673997116698055
+Emiliano Moretti,Torino,2049,0.02664874617718589
+Daniele Rugani,Juventus,788,0.02632615822431688
+Leonardo Blanchard,Frosinone,916,0.026171693423549854
+Milan Biševac,Lazio,450,0.026088157411730904
+Domenico Maietta,Bologna,811,0.025960017608033344
+Davide Astori,Fiorentina,2338,0.02589689503857459
+Niklas Moisander,Sampdoria,863,0.025527352339605847
+Modibo Diakité,Frosinone,491,0.025501173090623032
+Paolo Cannavaro,Sassuolo,1085,0.025229380119443746
+Leonardo Bonucci,Juventus,2336,0.025192653414089775
+Lorenzo Tonelli,Empoli,1353,0.024883700817664105
+Vlad Iulian Chiricheș,Napoli,501,0.024699041841349578
+Emanuele Suagher,Carpi,135,0.024673857308429966
+Ezequiel Muñoz,Genoa,634,0.02417961880892729
+Nicolás Federico Spolli,Carpi,97,0.024132086756680975
+Jeison Fabián Murillo Cerón,Inter Milan,1570,0.024051858826711986
+Thiago Rangel Cionek,Palermo,144,0.023925687039467305
+João Miranda de Souza Filho,Inter Milan,1536,0.023669171053176674
+Igor Bubnjić,Carpi,238,0.023607324538105188
+Alessio Romagnoli,AC Milan,1583,0.023547185357354842
+Rafael Tolói,Atalanta,721,0.023442915701801677
+Francesco Acerbi,Sassuolo,1844,0.023293351017278845
+Alex Rodrigo Dias da Costa,AC Milan,943,0.0232828621062371
+Wesley Hoedt,Lazio,1080,0.02316394075129678
+Rodrigo Ely,AC Milan,60,0.023064744386042335
+Andrea Ranocchia,Sampdoria,535,0.022940781055782036
+Uroš Ćosić,Empoli,560,0.02291795506089401
+Andrea Ranocchia,Inter Milan,133,0.02291214636632216
+Dario Dainelli,Chievo,580,0.022826976957799797
+Andrea Costa,Empoli,1384,0.022672035899514484
+Danilo Larangeira,Udinese,1223,0.022626381538263136
+Daniele Gastaldello,Bologna,1075,0.022567466191434387
+Konstantinos Manolas,AS Roma,1756,0.022546312988242452
+Gabriel Alejandro Paletta,Atalanta,807,0.022525195653527355
+Luca Antei,Sassuolo,169,0.02242680818436854
+Cristian Eduardo Zapata Valencia,AC Milan,658,0.022418594830541875
+Boštjan Cesar,Chievo,1135,0.02211519458602537
+Simone Romagnoli,Carpi,781,0.021991326098887782
+Lorenzo Ariaudo,Empoli,222,0.021911014059485766
+Gonzalo Javier Rodríguez,Fiorentina,2231,0.021875192221371985
+Santiago Juan Gentiletti Selak,Lazio,1129,0.021689059801828302
+Filip Helander,Hellas Verona,720,0.021624727991160362
+Nicolás Andrés Burdisso,Genoa,1080,0.021608562808747463
+Federico Barba,Empoli,531,0.02138840813829517
+Siniša Anđelković,Palermo,591,0.021341368159522266
+Maurício dos Santos Nascimento,Lazio,1024,0.021304167239877537
+Arlind Afrim Ajeti,Frosinone,329,0.021132927380424597
+Vasyl Pryyma,Frosinone,99,0.02092268091867775
+Davide Bertoncini,Frosinone,118,0.020920979724699494
+Guglielmo Stendardo,Atalanta,407,0.020853495658018386
+Giancarlo González Castro,Palermo,995,0.02084380029260428
+Claud Adjapong,Sassuolo,13,0.020839016449153258
+Matías Agustín Silvestre,Sampdoria,1015,0.019599984132934893
+Michele Camporese,Empoli,49,0.01959557733275271
+Nicolò Cherubin,Atalanta,344,0.019405171009724057
+Stefan de Vrij,Lazio,113,0.019152694214252693
+Alessandro Gamberini,Chievo,657,0.01900238957078466
+Nicolás Federico Spolli,Chievo,254,0.01851966235767034
+Berat Djimsiti,Atalanta,141,0.018449642576564014
+Kamil Glik,Torino,1657,0.018280106884572857
+Pontus Jansson,Torino,351,0.018214641770933706
+Andrea Coda,Sampdoria,70,0.01808785423314275
+Adriano Russo,Frosinone,229,0.01806596553301431
+Luca Martinelli,Empoli,48,0.017947625265954944
+Emanuele Terranova,Sassuolo,133,0.01748622046674626
+Leandro Castán da Silva,AS Roma,165,0.016783535625728794
+Samir Caetano de Souza Santos,Hellas Verona,85,0.016534516594209583
+Lorenzo Ariaudo,Sassuolo,81,0.014291971880237094
+Francesco Bardi,Frosinone,41,0.01277797930592391
+Vasco Regini,Napoli,6,0.012053780266722247
+Francesco Benussi,Carpi,103,0.009594062118065563
+Pierluigi Gollini,Hellas Verona,843,0.009521877856467595
+Andrea Seculin,Chievo,116,0.00922001909590827
+Ferdinando Coppola,Hellas Verona,42,0.009138871669243983
+Vid Belec,Carpi,853,0.009013889113978841
+Nicola Leali,Frosinone,981,0.008783265541977649
+Alberto Brignoli,Sampdoria,44,0.00859287971986056
+Orestis Karnezis,Udinese,1095,0.008583177643609484
+Albano Benjamín Bizzarri,Chievo,1099,0.008515209184443175
+Marco Sportiello,Atalanta,1084,0.008142448569873222
+Massimo Zenildo Zappino,Frosinone,117,0.008079015560843415
+Stefano Sorrentino,Palermo,1068,0.00804012135444156
+Emiliano Viviano,Sampdoria,1331,0.008038698164281299
+Antonio Mirante,Bologna,1111,0.00798303059176192
+Mattia Perin,Genoa,776,0.00771585528890602
+Angelo Esmael da Costa Júnior,Bologna,149,0.007677832960694277
+Simone Colombi,Carpi,28,0.007621912614726079
+Davide Bassi,Atalanta,37,0.007495994439818327
+Federico Marchetti,Lazio,819,0.007228787980282952
+Josip Posavec,Palermo,39,0.007185319083534749
+Željko Brkić,Carpi,87,0.00717057112692303
+Rafael de Andrade Bittencourt Pinheiro,Hellas Verona,313,0.007119699676645555
+Maurizio Pugliesi,Empoli,28,0.006955922085262932
+Simone Colombi,Palermo,18,0.0069158994472035456
+Wojciech Szczęsny,AS Roma,1242,0.006892288341138489
+Boris Radunović,Atalanta,32,0.006869590384563514
+Etrit Berisha,Lazio,236,0.006814949960224446
+Gianluigi Donnarumma,AC Milan,908,0.006803705416241113
+José Manuel Reina Páez,Napoli,1103,0.006665248627082432
+Andrea Consigli,Sassuolo,1316,0.006619078101662436
+Gianluca Pegolo,Sassuolo,62,0.00660623619016182
+Ionuț Andrei Radu,Inter Milan,6,0.006508987541002154
+Eugenio Lamanna,Genoa,355,0.006402904064473273
+Morgan De Sanctis,AS Roma,79,0.006089895022230786
+Diego López Rodríguez,AC Milan,245,0.0060789963758502265
+Samir Handanovič,Inter Milan,984,0.006015117425397368
+Salvador Ichazo Fernández,Torino,98,0.005887529834552068
+Łukasz Skorupski,Empoli,886,0.005836210691258171
+Fabrizio Alastra,Palermo,48,0.00582837340320161
+Anton Ciprian Tătărușanu,Fiorentina,1128,0.005815512054825812
+Luca Lezzerini,Fiorentina,50,0.005794328047947366
+Gianluigi Buffon,Juventus,888,0.005793662213046989
+Alberto Pelagotti,Empoli,181,0.005561413930730163
+Daniele Padelli,Torino,1073,0.005557043226584179
+Juan Pablo Carrizo,Inter Milan,45,0.005492439725863917
+Christian Abbiati,AC Milan,26,0.005384767190325581
+Norberto Murara Neto,Juventus,49,0.004975418258506143
+Gabriel Vasconelos Ferreira,Napoli,22,0.004786269243519936
