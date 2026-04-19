@@ -7,3 +7,5 @@ open-data/
 events_*.json
 *.zip
 .env
+a2-xDA-pass-danger/outputs/
+a3-statistical-testing/*.png

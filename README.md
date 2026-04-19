@@ -33,6 +33,14 @@ python a2-xDA-pass-danger/fit_xDA_model.py --events-dir ./statsbomb --output-dir
 
 Dependencies: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, and optionally `mplsoccer`.
 
+Install dependencies with:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+Generated artifacts (plots, rankings, and arrays) are written to `a2-xDA-pass-danger/outputs/` and are excluded from version control.
+
 ## Data attribution
 
 Event data: [StatsBomb Open Data](https://github.com/statsbomb/open-data), used under their free-for-non-commercial-research licence. Data files are not redistributed in this repository.
